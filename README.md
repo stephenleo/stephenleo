@@ -26,5 +26,5 @@ Here are some ideas to get you started:
 - 🔭 I’m currently researching and writing blog posts on Semantic Similarity Search for [Zilliz](https://zilliz.com/).
 
 ## :trophy: My Github Stats:
-![Leo's GitHub stats](https://github-readme-stats.vercel.app/api?username=stephenleo&hide=issues&count_private=true&show_icons=true&theme=tokyonight)
+![Leo's GitHub stats](https://github-readme-stats.vercel.app/api?username=stephenleo&hide_title=true&count_private=true&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stephenleo&layout=compact&theme=tokyonight)
