@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - ❤️ My passion and areas of expertise are Natural Language Processing, Computer Vision and Cloud Computing.
 - 🦄 I've developed entire Data products end-end (Algorithms, Data Engineering, Backend, Microservice middle layer and Frontend) in the Python and AWS/GCP ecosystems.
 - 🔥 I'm also a part time Data Science Instructor at General Assembly.
-- ✍️ I'm also a Freelance Technical Writer. I've achieved "Top writer in Artificial Intelligence" on Medium several times.
+- ✍️ In my free time I'm a Freelance Technical Writer. I've achieved "Top writer in Artificial Intelligence" on Medium several times.
 - 🔭 I’m currently researching and writing blog posts on Semantic Similarity Search for [Zilliz](https://zilliz.com/).
 - ⌛ In the past, I was the Data Science Lead at GoTo-Tokopedia (Indonesia's largest technology-ecommerce company) and the Data Science Manager at Micron (Fortune500 US Semiconductor Manufacturing company).
 
