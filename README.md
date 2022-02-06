@@ -25,6 +25,8 @@ Here are some ideas to get you started:
 - ✍️ I'm also a Freelance Technical Writer. I've achieved "Top writer in Artificial Intelligence" on Medium several times.
 - 🔭 I’m currently researching and writing blog posts on Semantic Similarity Search for [Zilliz](https://zilliz.com/).
 
-## :trophy: My Github Stats:
+## 🏆 My Github Stats:
 ![Leo's GitHub stats](https://github-readme-stats.vercel.app/api?username=stephenleo&hide_title=true&count_private=true&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stephenleo&hide=jupyter%20notebook&layout=compact&theme=tokyonight)
+
+## 🏅 My Most Used Languages:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stephenleo&hide_title=true&hide=jupyter%20notebook&compat=true&theme=tokyonight)
