@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 - 🔥 I'm also a part time Data Science Instructor at General Assembly.
 - ✍️ In my free time I'm a Freelance Technical Writer. I've achieved "Top writer in Artificial Intelligence" on Medium several times.
 - 🔭 I’m currently researching and writing blog posts on Semantic Similarity Search for [Zilliz](https://zilliz.com/).
-- ⌛ In the past, I was the Data Science Lead at [GoTo-Tokopedia](https://en.wikipedia.org/wiki/GoTo_(company)) (Indonesia's largest technology-ecommerce company) and the Data Science Manager at Micron (Fortune500 US Semiconductor Manufacturing company).
+- ⌛ In the past, I was the Data Science Lead at [GoTo-Tokopedia](https://en.wikipedia.org/wiki/GoTo_(company)) (Indonesia's largest technology-ecommerce company) and the Data Science Manager at [Micron](https://www.micron.com/) (Fortune500 US Semiconductor Manufacturing company).
 
 ## 🏆 My Github Stats:
 ![Leo's GitHub stats](https://github-readme-stats.vercel.app/api?username=stephenleo&hide_title=true&count_private=true&show_icons=true&theme=tokyonight)
