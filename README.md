@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 - 🦄 I've developed entire Data products end-end (Algorithms, Data Engineering, Backend, Microservice middle layer and Frontend) in the Python and AWS/GCP ecosystems.
 - 🔥 I'm also a part time Data Science Instructor at General Assembly.
 - ✍️ In my free time I'm a Freelance Technical Writer. I've achieved "Top writer in Artificial Intelligence" on Medium several times.
-- 🔭 I’m currently researching and writing blog posts on Neural (Semantic) Search for [Zilliz](https://zilliz.com/).
+- 🔭 I’m currently researching and writing blog posts on Neural (Semantic) Search for [Zilliz](https://zilliz.com/), the inventors of [Milvus](https://milvus.io/) vector search database.
 - ⌛ In the past, I was the Data Science Lead at [GoTo-Tokopedia](https://en.wikipedia.org/wiki/GoTo_(company)) (Indonesia's largest technology-ecommerce company) and the Data Science Manager at [Micron](https://www.micron.com/) (Fortune500 US Semiconductor Manufacturing company).
 
 Some of my technical work:
