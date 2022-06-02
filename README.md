@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 [![dev.to badge](https://img.shields.io/badge/-Medium-blueviolet?style=flat&logo=medium)](https://stephen-leo.medium.com/)
 [![dev.to badge](https://img.shields.io/badge/-🤗%20Huggingface%20Space-blue?style=flat)](https://huggingface.co/stephenleo)
 
-- ⚡ I'm currently the Director of Data Science APAC at [Edelman](https://www.edelman.com/), the world's largest Public Relations firm.
+- ⚡ I'm currently the Director of Data Science APAC at [Edelman](https://www.edelman.com/), the world's largest Public Relations firm. My role is 50% IC and 50% managerial.
 - ❤️ My passion and areas of expertise are Neural Search, Natural Language Processing, Computer Vision and Cloud Computing.
 - 🦄 I've developed entire Data products end-end (Algorithms, Data Engineering, Backend, Microservice middle layer and Frontend) in the Python and AWS/GCP ecosystems.
 - 🔥 I'm also a part time Data Science Instructor at General Assembly.
