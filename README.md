@@ -29,7 +29,9 @@ Here are some ideas to get you started:
 - ⌛ In the past, I was the Data Science Lead at [GoTo-Tokopedia](https://en.wikipedia.org/wiki/GoTo_(company)) (Indonesia's largest technology-ecommerce company) and the Data Science Manager at [Micron](https://www.micron.com/) (Fortune500 US Semiconductor Manufacturing company).
 
 Some of my technical work:
-- My Medium Blog: https://stephen-leo.medium.com
+- My Blogs: 
+    - Medium: https://stephen-leo.medium.com
+    - Github: https://stephenleo.github.io/data-science-blog/data-science-blog/intro.html
 - My talk at Quantum Black Meetup on Weak Supervision: https://www.slideshare.net/StephenLeo7/weak-supervisionpdf
 - My latest invention StripNet (Semantic Similarity of Scientific Papers Network): 
     - 70+ 🌟 on Github: https://github.com/stephenleo/stripnet
