@@ -15,18 +15,21 @@ Here are some ideas to get you started:
 👋 Hi there! My name is 
 # **Marie Stephen Leo**
 
+Most people call me Leo
+
 ![Github](https://img.shields.io/github/followers/stephenleo?style=social) 
 [![dev.to badge](https://img.shields.io/badge/-Marie%20Stephen%20Leo-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/marie-stephen-leo/) 
 [![dev.to badge](https://img.shields.io/badge/-Medium-blueviolet?style=flat&logo=medium)](https://stephen-leo.medium.com/)
 [![dev.to badge](https://img.shields.io/badge/-🤗%20Huggingface%20Space-blue?style=flat)](https://huggingface.co/stephenleo)
 
-- ⚡ I'm currently the Director of Data Science APAC at [Edelman](https://www.edelman.com/), the world's largest Public Relations firm. My role is 50% IC and 50% managerial.
-- ❤️ My passion and areas of expertise are Neural Search, Natural Language Processing, Computer Vision and Cloud Computing.
+- ⚡ I currently lead a team of Data Scientists and Engineers to build NLP-powered social listening products using various technologies on AWS. 
+- ⌛ My prior experience is in building AI/ML products in e-commerce and high-tech manufacturing industries using AWS, GCP and on-prem.
 - 🦄 I've developed entire Data products end-end (Algorithms, Data Engineering, Backend, Microservice middle layer and Frontend) in the Python and AWS/GCP ecosystems.
-- 🔥 I'm also a part time Data Science Instructor at General Assembly.
+- 🔥 I'm also a part time Data Science Instructor.
 - ✍️ In my free time I'm a Freelance Technical Writer. I've achieved "Top writer in Artificial Intelligence" on Medium several times.
-- 🔭 I’m currently researching and writing blog posts on Neural (Semantic) Search for [Zilliz](https://zilliz.com/), the inventors of [Milvus](https://milvus.io/) vector search database.
-- ⌛ In the past, I was the Data Science Lead at [GoTo-Tokopedia](https://en.wikipedia.org/wiki/GoTo_(company)) (Indonesia's largest technology-ecommerce company) and the Data Science Manager at [Micron](https://www.micron.com/) (Fortune500 US Semiconductor Manufacturing company).
+- 💪 I have 8+ years of ML experience across NLP, Computer Vision, Recsys, Tabular data and MLOps. I’ve published multiple technical blog posts on Medium (700+ followers) and co-authored a paper in ACL 2020 on unsupervised topic modelling of e-commerce reviews. 
+
+I regularly post about practical and applied data science. If you like my posts, let's connect on [Linkedin](https://www.linkedin.com/in/marie-stephen-leo/) or on [Twitter](https://twitter.com/MarieStephenLeo)!
 
 Some of my technical work:
 - My Blogs: 
