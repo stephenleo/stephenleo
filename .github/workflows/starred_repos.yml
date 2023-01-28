@@ -3,7 +3,7 @@ name: README
 on:
   workflow_dispatch:
   schedule:
-    - cron: "4 2 * * *"
+    - cron: "1 1 * * *"
 
 jobs:
   README:
@@ -19,7 +19,7 @@ jobs:
           python -m playwright install --with-deps webkit
       - name: Write README.md
         run: |
-          cat README_base.md > README.md
+          echo -e "#### Starred Things\n" > README.md
           curl -sSL https://gist.github.com/ddelange/f233237f91f23a158cea74f0f2f961c6/raw/3b9083f9283b5eadd3ea68e127ecc1613677eef8/playwright_github_stars_lists.py | python - >> README.md
       - name: Amend README.md
         run: |
