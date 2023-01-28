@@ -20,7 +20,7 @@ jobs:
       - name: Write README.md
         run: |
           echo -e "#### Starred Things\n" > README.md
-          curl -sSL https://gist.github.com/ddelange/f233237f91f23a158cea74f0f2f961c6/raw/3b9083f9283b5eadd3ea68e127ecc1613677eef8/playwright_github_stars_lists.py | python - >> README.md
+          python playwright_github_stars_lists.py >> README.md
       - name: Amend README.md
         run: |
           git config user.name github-actions
