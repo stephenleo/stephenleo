@@ -21,7 +21,3 @@ Some of my technical work:
 - My Blogs: 
     - Medium: https://stephen-leo.medium.com
     - Github: https://stephenleo.github.io/data-science-blog/data-science-blog/intro.html
-- My talk at Quantum Black Meetup on Weak Supervision: https://www.slideshare.net/StephenLeo7/weak-supervisionpdf
-- My latest invention StripNet (Semantic Similarity of Scientific Papers Network): 
-    - 80+ 🌟 on Github: https://github.com/stephenleo/stripnet
-    - 30+ ❤️ on HF: https://huggingface.co/spaces/stephenleo/stripnet
