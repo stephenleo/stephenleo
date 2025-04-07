@@ -12,7 +12,7 @@ Most people call me Leo
 - ⌛ My prior experience is in building AI/ML products in e-commerce, public relations and high-tech manufacturing industries using AWS, GCP and on-prem.
 - 🦄 I've developed entire Data products end-end (Algorithms, Data Engineering, Backend, Microservice middle layer and Frontend) in the Python and AWS/GCP ecosystems.
 - 🔥 I'm also a part time Data Science Instructor.
-- ✍️ In my free time I'm a Freelance Technical Writer. I'm a LinkedIn Top Voic (blue badge). I've achieved "Top writer in Artificial Intelligence" on Medium several times.
+- ✍️ In my free time I'm a Freelance Technical Writer. I'm a LinkedIn Top Voice (blue badge). I've achieved "Top writer in Artificial Intelligence" on Medium several times.
 - 💪 I have 14+ years of ML experience across NLP (including LLMOps), RecSys, MLOps, Data Engineering, Data Analytics, Computer Vision, and Tabular data. I’ve published multiple technical blog posts on Medium (1000+ followers) and co-authored a paper in ACL 2020 on unsupervised topic modelling of e-commerce reviews. 
 
 I regularly post about practical and applied data science. If you like my posts, let's connect on [Linkedin](https://www.linkedin.com/in/marie-stephen-leo/) or on [Twitter](https://twitter.com/MarieStephenLeo)!
