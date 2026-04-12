@@ -16,3 +16,8 @@ Most people call me Leo
 - 💪 I have 15+ years of ML experience across NLP (including LLMOps), RecSys, MLOps, Data Engineering, Data Analytics, Computer Vision, and Tabular data. I’ve published multiple technical blog posts on Medium (1000+ followers) and co-authored a paper in ACL 2020 on unsupervised topic modelling of e-commerce reviews. 
 
 I semi-regularly post about practical and applied data science. If you like my posts, let's connect on [Linkedin](https://www.linkedin.com/in/marie-stephen-leo/) or on [Medium](https://stephen-leo.medium.com)!
+<!-- vibestats-start -->
+[![vibestats](https://raw.githubusercontent.com/stephenleo/stephenleo/main/vibestats/heatmap.svg)](https://vibestats.dev/stephenleo)
+
+[View interactive dashboard →](https://vibestats.dev/stephenleo)
+<!-- vibestats-end -->
