@@ -17,7 +17,7 @@ Most people call me Leo
 
 I semi-regularly post about practical and applied data science. If you like my posts, let's connect on [Linkedin](https://www.linkedin.com/in/marie-stephen-leo/) or on [Medium](https://stephen-leo.medium.com)!
 <!-- vibestats-start -->
-[![vibestats](https://raw.githubusercontent.com/stephenleo/stephenleo/main/vibestats/heatmap.svg)](https://vibestats.dev/stephenleo)
+<img src="https://raw.githubusercontent.com/stephenleo/stephenleo/main/vibestats/heatmap.svg" alt="vibestats heatmap" />
 
 [View interactive dashboard →](https://vibestats.dev/stephenleo)
 <!-- vibestats-end -->

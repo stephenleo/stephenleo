@@ -1,0 +1,98 @@
+{
+  "generated_at": "2026-04-12T14:39:56Z",
+  "username": "stephenleo",
+  "days": {
+    "2026-03-26": {
+      "sessions": 34,
+      "active_minutes": 53
+    },
+    "2026-03-27": {
+      "sessions": 46,
+      "active_minutes": 209
+    },
+    "2026-03-14": {
+      "sessions": 30,
+      "active_minutes": 4
+    },
+    "2026-03-30": {
+      "sessions": 59,
+      "active_minutes": 79
+    },
+    "2026-03-18": {
+      "sessions": 6,
+      "active_minutes": 4
+    },
+    "2026-03-28": {
+      "sessions": 18,
+      "active_minutes": 2
+    },
+    "2026-03-12": {
+      "sessions": 1,
+      "active_minutes": 0
+    },
+    "2026-03-31": {
+      "sessions": 168,
+      "active_minutes": 19
+    },
+    "2026-03-29": {
+      "sessions": 86,
+      "active_minutes": 45
+    },
+    "2026-03-22": {
+      "sessions": 4,
+      "active_minutes": 2
+    },
+    "2026-03-13": {
+      "sessions": 5,
+      "active_minutes": 0
+    },
+    "2026-03-25": {
+      "sessions": 34,
+      "active_minutes": 18
+    },
+    "2026-04-05": {
+      "sessions": 119,
+      "active_minutes": 35
+    },
+    "2026-04-04": {
+      "sessions": 77,
+      "active_minutes": 57
+    },
+    "2026-04-01": {
+      "sessions": 142,
+      "active_minutes": 105
+    },
+    "2026-04-08": {
+      "sessions": 57,
+      "active_minutes": 33
+    },
+    "2026-04-11": {
+      "sessions": 259,
+      "active_minutes": 224
+    },
+    "2026-04-10": {
+      "sessions": 29,
+      "active_minutes": 38
+    },
+    "2026-04-09": {
+      "sessions": 5,
+      "active_minutes": 2
+    },
+    "2026-04-03": {
+      "sessions": 88,
+      "active_minutes": 82
+    },
+    "2026-04-12": {
+      "sessions": 204,
+      "active_minutes": 65
+    },
+    "2026-04-02": {
+      "sessions": 62,
+      "active_minutes": 43
+    },
+    "2026-04-06": {
+      "sessions": 50,
+      "active_minutes": 7
+    }
+  }
+}
