@@ -21,7 +21,11 @@ My Vibestats:
 - Heatmap of my work with AI Coding Agents. Supports Claude Code for now. 🌟 Github: https://github.com/stephenleo/vibestats
   
 <!-- vibestats-start -->
-<img src="https://raw.githubusercontent.com/stephenleo/stephenleo/main/vibestats/heatmap.svg" alt="vibestats heatmap" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/stephenleo/stephenleo/main/vibestats/heatmap-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/stephenleo/stephenleo/main/vibestats/heatmap.svg" />
+  <img src="https://raw.githubusercontent.com/stephenleo/stephenleo/main/vibestats/heatmap.svg" alt="vibestats heatmap" />
+</picture>
 
 [View interactive dashboard →](https://vibestats.dev/stephenleo)
 <!-- vibestats-end -->
