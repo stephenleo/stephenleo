@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-13T04:53:07Z",
+  "generated_at": "2026-04-13T07:10:43Z",
   "username": "stephenleo",
   "days": {
     "2026-03-26": {
@@ -11,8 +11,8 @@
       "active_minutes": 209
     },
     "2026-03-14": {
-      "sessions": 30,
-      "active_minutes": 4
+      "sessions": 18,
+      "active_minutes": 2
     },
     "2026-03-30": {
       "sessions": 59,
@@ -83,16 +83,16 @@
       "active_minutes": 82
     },
     "2026-04-12": {
-      "sessions": 204,
-      "active_minutes": 56
+      "sessions": 207,
+      "active_minutes": 278
     },
     "2026-04-02": {
       "sessions": 62,
       "active_minutes": 43
     },
     "2026-04-13": {
-      "sessions": 71,
-      "active_minutes": 14
+      "sessions": 105,
+      "active_minutes": 18
     },
     "2026-04-06": {
       "sessions": 50,
