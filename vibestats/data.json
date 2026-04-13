@@ -1,10 +1,30 @@
 {
-  "generated_at": "2026-04-13T07:10:43Z",
+  "generated_at": "2026-04-13T12:40:32Z",
   "username": "stephenleo",
   "days": {
+    "2026-02-21": {
+      "sessions": 30,
+      "active_minutes": 0
+    },
+    "2026-02-28": {
+      "sessions": 21,
+      "active_minutes": 25
+    },
+    "2026-02-22": {
+      "sessions": 1,
+      "active_minutes": 0
+    },
+    "2026-02-23": {
+      "sessions": 2,
+      "active_minutes": 0
+    },
     "2026-03-26": {
       "sessions": 34,
       "active_minutes": 53
+    },
+    "2026-03-05": {
+      "sessions": 42,
+      "active_minutes": 54
     },
     "2026-03-27": {
       "sessions": 46,
@@ -14,25 +34,57 @@
       "sessions": 18,
       "active_minutes": 2
     },
+    "2026-03-04": {
+      "sessions": 10,
+      "active_minutes": 8
+    },
+    "2026-03-01": {
+      "sessions": 26,
+      "active_minutes": 32
+    },
+    "2026-03-08": {
+      "sessions": 90,
+      "active_minutes": 75
+    },
     "2026-03-30": {
       "sessions": 59,
       "active_minutes": 79
+    },
+    "2026-03-11": {
+      "sessions": 31,
+      "active_minutes": 11
     },
     "2026-03-18": {
       "sessions": 6,
       "active_minutes": 4
     },
+    "2026-03-10": {
+      "sessions": 16,
+      "active_minutes": 12
+    },
     "2026-03-28": {
-      "sessions": 18,
-      "active_minutes": 2
+      "sessions": 74,
+      "active_minutes": 7
+    },
+    "2026-03-09": {
+      "sessions": 47,
+      "active_minutes": 28
+    },
+    "2026-03-03": {
+      "sessions": 12,
+      "active_minutes": 18
     },
     "2026-03-12": {
-      "sessions": 1,
-      "active_minutes": 0
+      "sessions": 10,
+      "active_minutes": 18
     },
     "2026-03-31": {
       "sessions": 168,
       "active_minutes": 19
+    },
+    "2026-03-02": {
+      "sessions": 43,
+      "active_minutes": 31
     },
     "2026-03-29": {
       "sessions": 86,
@@ -43,12 +95,16 @@
       "active_minutes": 2
     },
     "2026-03-13": {
-      "sessions": 5,
-      "active_minutes": 0
+      "sessions": 11,
+      "active_minutes": 1
     },
     "2026-03-25": {
       "sessions": 34,
       "active_minutes": 18
+    },
+    "2026-03-07": {
+      "sessions": 87,
+      "active_minutes": 76
     },
     "2026-04-05": {
       "sessions": 119,
@@ -91,8 +147,8 @@
       "active_minutes": 43
     },
     "2026-04-13": {
-      "sessions": 105,
-      "active_minutes": 18
+      "sessions": 119,
+      "active_minutes": 25
     },
     "2026-04-06": {
       "sessions": 50,
