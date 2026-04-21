@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-20T04:52:50Z",
+  "generated_at": "2026-04-21T04:43:13Z",
   "username": "stephenleo",
   "days": {
     "2026-02-21": {
@@ -446,6 +446,22 @@
       "message_count": 0,
       "tool_uses": 1428
     },
+    "2026-04-21": {
+      "sessions": 25,
+      "active_minutes": 0,
+      "input_tokens": 6466,
+      "output_tokens": 214704,
+      "cache_read_tokens": 58131562,
+      "cache_creation_tokens": 3263623,
+      "models": {
+        "<synthetic>": 0,
+        "claude-opus-4-7": 10668,
+        "claude-sonnet-4-6": 204036
+      },
+      "longest_session_minutes": 0,
+      "message_count": 0,
+      "tool_uses": 838
+    },
     "2026-04-05": {
       "sessions": 117,
       "active_minutes": 35,
@@ -656,20 +672,21 @@
       "tool_uses": 4397
     },
     "2026-04-20": {
-      "sessions": 47,
-      "active_minutes": 8,
-      "input_tokens": 36140,
-      "output_tokens": 437970,
-      "cache_read_tokens": 96171249,
-      "cache_creation_tokens": 4914957,
+      "sessions": 160,
+      "active_minutes": 39,
+      "input_tokens": 156565,
+      "output_tokens": 2239443,
+      "cache_read_tokens": 452568888,
+      "cache_creation_tokens": 19366621,
       "models": {
-        "claude-haiku-4-5-20251001": 20892,
-        "claude-opus-4-7": 42781,
-        "claude-sonnet-4-6": 374297
+        "claude-haiku-4-5-20251001": 37125,
+        "claude-opus-4-7": 799943,
+        "claude-sonnet-4-6": 1402375,
+        "<synthetic>": 0
       },
-      "longest_session_minutes": 4,
-      "message_count": 399,
-      "tool_uses": 1219
+      "longest_session_minutes": 22,
+      "message_count": 2383,
+      "tool_uses": 5377
     },
     "2026-04-06": {
       "sessions": 50,
