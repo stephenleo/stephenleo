@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-04T05:27:58Z",
+  "generated_at": "2026-05-04T07:25:56Z",
   "username": "stephenleo",
   "days": {
     "2026-02-21": {
@@ -16,7 +16,13 @@
       },
       "longest_session_minutes": 0,
       "message_count": 0,
-      "tool_uses": 184
+      "tool_uses": 184,
+      "harnesses": {
+        "claude": {
+          "input_tokens": 3914,
+          "output_tokens": 1463
+        }
+      }
     },
     "2026-02-28": {
       "sessions": 24,
@@ -32,7 +38,13 @@
       },
       "longest_session_minutes": 8,
       "message_count": 0,
-      "tool_uses": 395
+      "tool_uses": 395,
+      "harnesses": {
+        "claude": {
+          "input_tokens": 46144,
+          "output_tokens": 155897
+        }
+      }
     },
     "2026-02-22": {
       "sessions": 1,
@@ -46,7 +58,13 @@
       },
       "longest_session_minutes": 0,
       "message_count": 0,
-      "tool_uses": 8
+      "tool_uses": 8,
+      "harnesses": {
+        "claude": {
+          "input_tokens": 57,
+          "output_tokens": 21
+        }
+      }
     },
     "2026-02-20": {
       "sessions": 4,
@@ -61,7 +79,13 @@
       },
       "longest_session_minutes": 0,
       "message_count": 0,
-      "tool_uses": 66
+      "tool_uses": 66,
+      "harnesses": {
+        "claude": {
+          "input_tokens": 2185,
+          "output_tokens": 260
+        }
+      }
     },
     "2026-02-23": {
       "sessions": 2,
@@ -76,7 +100,13 @@
       },
       "longest_session_minutes": 0,
       "message_count": 0,
-      "tool_uses": 14
+      "tool_uses": 14,
+      "harnesses": {
+        "claude": {
+          "input_tokens": 992,
+          "output_tokens": 307
+        }
+      }
     },
     "2026-02-19": {
       "sessions": 1,
@@ -90,7 +120,13 @@
       },
       "longest_session_minutes": 0,
       "message_count": 0,
-      "tool_uses": 31
+      "tool_uses": 31,
+      "harnesses": {
+        "claude": {
+          "input_tokens": 348,
+          "output_tokens": 103
+        }
+      }
     },
     "2026-03-26": {
       "sessions": 34,
@@ -106,7 +142,13 @@
       },
       "longest_session_minutes": 22,
       "message_count": 2011,
-      "tool_uses": 939
+      "tool_uses": 939,
+      "harnesses": {
+        "claude": {
+          "input_tokens": 11319,
+          "output_tokens": 217544
+        }
+      }
     },
     "2026-03-05": {
       "sessions": 43,
@@ -122,7 +164,13 @@
       },
       "longest_session_minutes": 7,
       "message_count": 0,
-      "tool_uses": 770
+      "tool_uses": 770,
+      "harnesses": {
+        "claude": {
+          "input_tokens": 57703,
+          "output_tokens": 288466
+        }
+      }
     },
     "2026-03-27": {
       "sessions": 51,
@@ -139,7 +187,13 @@
       },
       "longest_session_minutes": 51,
       "message_count": 903,
-      "tool_uses": 1123
+      "tool_uses": 1123,
+      "harnesses": {
+        "claude": {
+          "input_tokens": 15113,
+          "output_tokens": 274688
+        }
+      }
     },
     "2026-03-14": {
       "sessions": 6,
@@ -153,7 +207,13 @@
       },
       "longest_session_minutes": 0,
       "message_count": 0,
-      "tool_uses": 46
+      "tool_uses": 46,
+      "harnesses": {
+        "claude": {
+          "input_tokens": 7362,
+          "output_tokens": 8129
+        }
+      }
     },
     "2026-03-04": {
       "sessions": 12,
@@ -169,7 +229,13 @@
       },
       "longest_session_minutes": 3,
       "message_count": 0,
-      "tool_uses": 293
+      "tool_uses": 293,
+      "harnesses": {
+        "claude": {
+          "input_tokens": 65914,
+          "output_tokens": 120867
+        }
+      }
     },
     "2026-03-01": {
       "sessions": 26,
@@ -186,7 +252,13 @@
       },
       "longest_session_minutes": 7,
       "message_count": 0,
-      "tool_uses": 508
+      "tool_uses": 508,
+      "harnesses": {
+        "claude": {
+          "input_tokens": 84481,
+          "output_tokens": 246680
+        }
+      }
     },
     "2026-03-08": {
       "sessions": 90,
@@ -203,7 +275,13 @@
       },
       "longest_session_minutes": 13,
       "message_count": 0,
-      "tool_uses": 1602
+      "tool_uses": 1602,
+      "harnesses": {
+        "claude": {
+          "input_tokens": 78491,
+          "output_tokens": 604316
+        }
+      }
     },
     "2026-03-30": {
       "sessions": 62,
@@ -219,7 +297,13 @@
       },
       "longest_session_minutes": 67,
       "message_count": 1973,
-      "tool_uses": 1900
+      "tool_uses": 1900,
+      "harnesses": {
+        "claude": {
+          "input_tokens": 46381,
+          "output_tokens": 703591
+        }
+      }
     },
     "2026-03-11": {
       "sessions": 50,
@@ -236,7 +320,13 @@
       },
       "longest_session_minutes": 3,
       "message_count": 0,
-      "tool_uses": 567
+      "tool_uses": 567,
+      "harnesses": {
+        "claude": {
+          "input_tokens": 37654,
+          "output_tokens": 205541
+        }
+      }
     },
     "2026-03-18": {
       "sessions": 6,
@@ -252,7 +342,13 @@
       },
       "longest_session_minutes": 4,
       "message_count": 0,
-      "tool_uses": 34
+      "tool_uses": 34,
+      "harnesses": {
+        "claude": {
+          "input_tokens": 17194,
+          "output_tokens": 13304
+        }
+      }
     },
     "2026-03-10": {
       "sessions": 16,
@@ -267,7 +363,13 @@
       },
       "longest_session_minutes": 8,
       "message_count": 0,
-      "tool_uses": 169
+      "tool_uses": 169,
+      "harnesses": {
+        "claude": {
+          "input_tokens": 27214,
+          "output_tokens": 70010
+        }
+      }
     },
     "2026-03-28": {
       "sessions": 72,
@@ -283,7 +385,13 @@
       },
       "longest_session_minutes": 3,
       "message_count": 1073,
-      "tool_uses": 1311
+      "tool_uses": 1311,
+      "harnesses": {
+        "claude": {
+          "input_tokens": 61764,
+          "output_tokens": 400856
+        }
+      }
     },
     "2026-03-09": {
       "sessions": 47,
@@ -300,7 +408,13 @@
       },
       "longest_session_minutes": 10,
       "message_count": 0,
-      "tool_uses": 467
+      "tool_uses": 467,
+      "harnesses": {
+        "claude": {
+          "input_tokens": 12776,
+          "output_tokens": 198217
+        }
+      }
     },
     "2026-03-03": {
       "sessions": 12,
@@ -316,7 +430,13 @@
       },
       "longest_session_minutes": 9,
       "message_count": 0,
-      "tool_uses": 351
+      "tool_uses": 351,
+      "harnesses": {
+        "claude": {
+          "input_tokens": 11833,
+          "output_tokens": 135669
+        }
+      }
     },
     "2026-03-12": {
       "sessions": 24,
@@ -331,7 +451,13 @@
       },
       "longest_session_minutes": 18,
       "message_count": 0,
-      "tool_uses": 110
+      "tool_uses": 110,
+      "harnesses": {
+        "claude": {
+          "input_tokens": 2186,
+          "output_tokens": 71066
+        }
+      }
     },
     "2026-03-31": {
       "sessions": 170,
@@ -347,7 +473,13 @@
       },
       "longest_session_minutes": 7,
       "message_count": 1752,
-      "tool_uses": 6108
+      "tool_uses": 6108,
+      "harnesses": {
+        "claude": {
+          "input_tokens": 68381,
+          "output_tokens": 1520825
+        }
+      }
     },
     "2026-03-02": {
       "sessions": 45,
@@ -364,7 +496,13 @@
       },
       "longest_session_minutes": 8,
       "message_count": 0,
-      "tool_uses": 584
+      "tool_uses": 584,
+      "harnesses": {
+        "claude": {
+          "input_tokens": 105926,
+          "output_tokens": 236031
+        }
+      }
     },
     "2026-03-29": {
       "sessions": 83,
@@ -380,7 +518,13 @@
       },
       "longest_session_minutes": 19,
       "message_count": 2625,
-      "tool_uses": 2282
+      "tool_uses": 2282,
+      "harnesses": {
+        "claude": {
+          "input_tokens": 32926,
+          "output_tokens": 1002530
+        }
+      }
     },
     "2026-03-22": {
       "sessions": 4,
@@ -395,7 +539,13 @@
       },
       "longest_session_minutes": 1,
       "message_count": 0,
-      "tool_uses": 46
+      "tool_uses": 46,
+      "harnesses": {
+        "claude": {
+          "input_tokens": 1285,
+          "output_tokens": 18035
+        }
+      }
     },
     "2026-03-13": {
       "sessions": 33,
@@ -410,7 +560,13 @@
       },
       "longest_session_minutes": 1,
       "message_count": 0,
-      "tool_uses": 51
+      "tool_uses": 51,
+      "harnesses": {
+        "claude": {
+          "input_tokens": 647,
+          "output_tokens": 12440
+        }
+      }
     },
     "2026-03-25": {
       "sessions": 32,
@@ -427,7 +583,13 @@
       },
       "longest_session_minutes": 12,
       "message_count": 1025,
-      "tool_uses": 554
+      "tool_uses": 554,
+      "harnesses": {
+        "claude": {
+          "input_tokens": 33337,
+          "output_tokens": 124014
+        }
+      }
     },
     "2026-03-07": {
       "sessions": 87,
@@ -444,24 +606,36 @@
       },
       "longest_session_minutes": 8,
       "message_count": 0,
-      "tool_uses": 1428
+      "tool_uses": 1428,
+      "harnesses": {
+        "claude": {
+          "input_tokens": 120857,
+          "output_tokens": 563115
+        }
+      }
     },
     "2026-05-04": {
-      "sessions": 43,
+      "sessions": 57,
       "active_minutes": 0,
-      "input_tokens": 4250,
-      "output_tokens": 359363,
-      "cache_read_tokens": 68477090,
-      "cache_creation_tokens": 2348823,
+      "input_tokens": 7890,
+      "output_tokens": 542676,
+      "cache_read_tokens": 105349465,
+      "cache_creation_tokens": 3220086,
       "models": {
         "<synthetic>": 0,
-        "claude-haiku-4-5-20251001": 5829,
-        "claude-opus-4-7": 333649,
-        "claude-sonnet-4-6": 19885
+        "claude-haiku-4-5-20251001": 8458,
+        "claude-opus-4-7": 495394,
+        "claude-sonnet-4-6": 38824
       },
       "longest_session_minutes": 0,
-      "message_count": 1625,
-      "tool_uses": 1004
+      "message_count": 2509,
+      "tool_uses": 1508,
+      "harnesses": {
+        "claude": {
+          "input_tokens": 7890,
+          "output_tokens": 542676
+        }
+      }
     },
     "2026-05-01": {
       "sessions": 60,
@@ -477,7 +651,13 @@
       },
       "longest_session_minutes": 4,
       "message_count": 1671,
-      "tool_uses": 965
+      "tool_uses": 965,
+      "harnesses": {
+        "claude": {
+          "input_tokens": 15926,
+          "output_tokens": 301718
+        }
+      }
     },
     "2026-05-03": {
       "sessions": 129,
@@ -495,7 +675,17 @@
       },
       "longest_session_minutes": 348,
       "message_count": 1890,
-      "tool_uses": 1438
+      "tool_uses": 1438,
+      "harnesses": {
+        "codex": {
+          "input_tokens": 2346722,
+          "output_tokens": 152990
+        },
+        "claude": {
+          "input_tokens": 31850,
+          "output_tokens": 255039
+        }
+      }
     },
     "2026-05-02": {
       "sessions": 1,
@@ -507,7 +697,13 @@
       "models": {},
       "longest_session_minutes": 0,
       "message_count": 0,
-      "tool_uses": 0
+      "tool_uses": 0,
+      "harnesses": {
+        "claude": {
+          "input_tokens": 0,
+          "output_tokens": 0
+        }
+      }
     },
     "2026-04-21": {
       "sessions": 75,
@@ -523,7 +719,13 @@
       },
       "longest_session_minutes": 0,
       "message_count": 0,
-      "tool_uses": 3487
+      "tool_uses": 3487,
+      "harnesses": {
+        "claude": {
+          "input_tokens": 10686,
+          "output_tokens": 311893
+        }
+      }
     },
     "2026-04-05": {
       "sessions": 117,
@@ -539,7 +741,13 @@
       },
       "longest_session_minutes": 8,
       "message_count": 2634,
-      "tool_uses": 4292
+      "tool_uses": 4292,
+      "harnesses": {
+        "claude": {
+          "input_tokens": 62708,
+          "output_tokens": 339582
+        }
+      }
     },
     "2026-04-14": {
       "sessions": 5,
@@ -554,7 +762,13 @@
       },
       "longest_session_minutes": 9,
       "message_count": 96,
-      "tool_uses": 77
+      "tool_uses": 77,
+      "harnesses": {
+        "claude": {
+          "input_tokens": 1261,
+          "output_tokens": 57678
+        }
+      }
     },
     "2026-04-04": {
       "sessions": 77,
@@ -570,7 +784,13 @@
       },
       "longest_session_minutes": 54,
       "message_count": 711,
-      "tool_uses": 2068
+      "tool_uses": 2068,
+      "harnesses": {
+        "claude": {
+          "input_tokens": 17040,
+          "output_tokens": 151569
+        }
+      }
     },
     "2026-04-01": {
       "sessions": 15,
@@ -585,7 +805,13 @@
       },
       "longest_session_minutes": 2,
       "message_count": 80,
-      "tool_uses": 76
+      "tool_uses": 76,
+      "harnesses": {
+        "claude": {
+          "input_tokens": 498,
+          "output_tokens": 21249
+        }
+      }
     },
     "2026-04-08": {
       "sessions": 60,
@@ -602,7 +828,13 @@
       },
       "longest_session_minutes": 7,
       "message_count": 1620,
-      "tool_uses": 1258
+      "tool_uses": 1258,
+      "harnesses": {
+        "claude": {
+          "input_tokens": 23608,
+          "output_tokens": 106792
+        }
+      }
     },
     "2026-04-30": {
       "sessions": 23,
@@ -616,7 +848,13 @@
       },
       "longest_session_minutes": 0,
       "message_count": 210,
-      "tool_uses": 110
+      "tool_uses": 110,
+      "harnesses": {
+        "claude": {
+          "input_tokens": 190,
+          "output_tokens": 17443
+        }
+      }
     },
     "2026-04-11": {
       "sessions": 260,
@@ -634,7 +872,17 @@
       },
       "longest_session_minutes": 1289,
       "message_count": 7443,
-      "tool_uses": 7648
+      "tool_uses": 7648,
+      "harnesses": {
+        "codex": {
+          "input_tokens": 119082,
+          "output_tokens": 8915
+        },
+        "claude": {
+          "input_tokens": 58832,
+          "output_tokens": 1110651
+        }
+      }
     },
     "2026-04-18": {
       "sessions": 7,
@@ -648,7 +896,13 @@
       },
       "longest_session_minutes": 103,
       "message_count": 54,
-      "tool_uses": 297
+      "tool_uses": 297,
+      "harnesses": {
+        "codex": {
+          "input_tokens": 1159450,
+          "output_tokens": 154947
+        }
+      }
     },
     "2026-04-10": {
       "sessions": 29,
@@ -664,7 +918,13 @@
       },
       "longest_session_minutes": 16,
       "message_count": 1500,
-      "tool_uses": 695
+      "tool_uses": 695,
+      "harnesses": {
+        "claude": {
+          "input_tokens": 4068,
+          "output_tokens": 239282
+        }
+      }
     },
     "2026-04-09": {
       "sessions": 17,
@@ -678,7 +938,13 @@
       },
       "longest_session_minutes": 2,
       "message_count": 417,
-      "tool_uses": 106
+      "tool_uses": 106,
+      "harnesses": {
+        "claude": {
+          "input_tokens": 418,
+          "output_tokens": 117944
+        }
+      }
     },
     "2026-04-03": {
       "sessions": 88,
@@ -694,7 +960,13 @@
       },
       "longest_session_minutes": 48,
       "message_count": 1171,
-      "tool_uses": 3428
+      "tool_uses": 3428,
+      "harnesses": {
+        "claude": {
+          "input_tokens": 29349,
+          "output_tokens": 311995
+        }
+      }
     },
     "2026-04-12": {
       "sessions": 209,
@@ -711,7 +983,17 @@
       },
       "longest_session_minutes": 630,
       "message_count": 8283,
-      "tool_uses": 6165
+      "tool_uses": 6165,
+      "harnesses": {
+        "codex": {
+          "input_tokens": 1028099,
+          "output_tokens": 117192
+        },
+        "claude": {
+          "input_tokens": 56613,
+          "output_tokens": 1027574
+        }
+      }
     },
     "2026-04-02": {
       "sessions": 4,
@@ -726,7 +1008,13 @@
       },
       "longest_session_minutes": 2,
       "message_count": 157,
-      "tool_uses": 71
+      "tool_uses": 71,
+      "harnesses": {
+        "claude": {
+          "input_tokens": 4608,
+          "output_tokens": 15993
+        }
+      }
     },
     "2026-04-22": {
       "sessions": 97,
@@ -741,7 +1029,13 @@
       },
       "longest_session_minutes": 43,
       "message_count": 1309,
-      "tool_uses": 3900
+      "tool_uses": 3900,
+      "harnesses": {
+        "claude": {
+          "input_tokens": 32780,
+          "output_tokens": 377032
+        }
+      }
     },
     "2026-04-24": {
       "sessions": 3,
@@ -755,7 +1049,13 @@
       },
       "longest_session_minutes": 11,
       "message_count": 1087,
-      "tool_uses": 387
+      "tool_uses": 387,
+      "harnesses": {
+        "claude": {
+          "input_tokens": 240,
+          "output_tokens": 85495
+        }
+      }
     },
     "2026-04-16": {
       "sessions": 3,
@@ -771,7 +1071,13 @@
       },
       "longest_session_minutes": 5,
       "message_count": 306,
-      "tool_uses": 114
+      "tool_uses": 114,
+      "harnesses": {
+        "claude": {
+          "input_tokens": 126,
+          "output_tokens": 33821
+        }
+      }
     },
     "2026-04-13": {
       "sessions": 127,
@@ -788,7 +1094,13 @@
       },
       "longest_session_minutes": 13,
       "message_count": 3522,
-      "tool_uses": 4397
+      "tool_uses": 4397,
+      "harnesses": {
+        "claude": {
+          "input_tokens": 47906,
+          "output_tokens": 706011
+        }
+      }
     },
     "2026-04-20": {
       "sessions": 160,
@@ -805,7 +1117,13 @@
       },
       "longest_session_minutes": 22,
       "message_count": 3742,
-      "tool_uses": 5752
+      "tool_uses": 5752,
+      "harnesses": {
+        "claude": {
+          "input_tokens": 68331,
+          "output_tokens": 1312166
+        }
+      }
     },
     "2026-04-25": {
       "sessions": 63,
@@ -821,7 +1139,13 @@
       },
       "longest_session_minutes": 0,
       "message_count": 0,
-      "tool_uses": 2002
+      "tool_uses": 2002,
+      "harnesses": {
+        "claude": {
+          "input_tokens": 15794,
+          "output_tokens": 181246
+        }
+      }
     },
     "2026-04-06": {
       "sessions": 57,
@@ -838,7 +1162,17 @@
       },
       "longest_session_minutes": 58,
       "message_count": 679,
-      "tool_uses": 1415
+      "tool_uses": 1415,
+      "harnesses": {
+        "codex": {
+          "input_tokens": 746824,
+          "output_tokens": 37704
+        },
+        "claude": {
+          "input_tokens": 36984,
+          "output_tokens": 167979
+        }
+      }
     },
     "2026-04-19": {
       "sessions": 192,
@@ -858,7 +1192,17 @@
       },
       "longest_session_minutes": 74,
       "message_count": 3970,
-      "tool_uses": 5083
+      "tool_uses": 5083,
+      "harnesses": {
+        "codex": {
+          "input_tokens": 2364549,
+          "output_tokens": 340238
+        },
+        "claude": {
+          "input_tokens": 40418,
+          "output_tokens": 968179
+        }
+      }
     },
     "2026-04-07": {
       "sessions": 24,
@@ -874,7 +1218,13 @@
       },
       "longest_session_minutes": 4,
       "message_count": 153,
-      "tool_uses": 141
+      "tool_uses": 141,
+      "harnesses": {
+        "claude": {
+          "input_tokens": 6274,
+          "output_tokens": 51248
+        }
+      }
     }
   }
 }
