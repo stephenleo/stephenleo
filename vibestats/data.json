@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-04T07:47:28Z",
+  "generated_at": "2026-05-04T13:28:50Z",
   "username": "stephenleo",
   "days": {
     "2026-02-21": {
@@ -27,12 +27,12 @@
     "2026-02-28": {
       "sessions": 24,
       "active_minutes": 25,
-      "input_tokens": 46144,
-      "output_tokens": 155897,
-      "cache_read_tokens": 35511002,
-      "cache_creation_tokens": 3342029,
+      "input_tokens": 34766,
+      "output_tokens": 154063,
+      "cache_read_tokens": 34939927,
+      "cache_creation_tokens": 3227591,
       "models": {
-        "claude-haiku-4-5-20251001": 8524,
+        "claude-haiku-4-5-20251001": 6690,
         "claude-sonnet-4-6": 121486,
         "claude-opus-4-6": 25887
       },
@@ -41,8 +41,8 @@
       "tool_uses": 395,
       "harnesses": {
         "claude": {
-          "input_tokens": 46144,
-          "output_tokens": 155897
+          "input_tokens": 34766,
+          "output_tokens": 154063
         }
       }
     },
@@ -69,21 +69,21 @@
     "2026-02-20": {
       "sessions": 4,
       "active_minutes": 0,
-      "input_tokens": 2185,
-      "output_tokens": 260,
-      "cache_read_tokens": 1469159,
-      "cache_creation_tokens": 627729,
+      "input_tokens": 1006,
+      "output_tokens": 47,
+      "cache_read_tokens": 441848,
+      "cache_creation_tokens": 110752,
       "models": {
-        "claude-haiku-4-5-20251001": 126,
-        "claude-sonnet-4-6": 134
+        "claude-haiku-4-5-20251001": 32,
+        "claude-sonnet-4-6": 15
       },
       "longest_session_minutes": 0,
       "message_count": 0,
       "tool_uses": 66,
       "harnesses": {
         "claude": {
-          "input_tokens": 2185,
-          "output_tokens": 260
+          "input_tokens": 1006,
+          "output_tokens": 47
         }
       }
     },
@@ -111,20 +111,20 @@
     "2026-02-19": {
       "sessions": 1,
       "active_minutes": 0,
-      "input_tokens": 348,
-      "output_tokens": 103,
-      "cache_read_tokens": 693522,
-      "cache_creation_tokens": 77645,
+      "input_tokens": 145,
+      "output_tokens": 33,
+      "cache_read_tokens": 248210,
+      "cache_creation_tokens": 21893,
       "models": {
-        "claude-haiku-4-5-20251001": 103
+        "claude-haiku-4-5-20251001": 33
       },
       "longest_session_minutes": 0,
       "message_count": 0,
       "tool_uses": 31,
       "harnesses": {
         "claude": {
-          "input_tokens": 348,
-          "output_tokens": 103
+          "input_tokens": 145,
+          "output_tokens": 33
         }
       }
     },
@@ -153,12 +153,12 @@
     "2026-03-05": {
       "sessions": 43,
       "active_minutes": 54,
-      "input_tokens": 57703,
-      "output_tokens": 288466,
-      "cache_read_tokens": 54812038,
-      "cache_creation_tokens": 4156859,
+      "input_tokens": 57682,
+      "output_tokens": 287980,
+      "cache_read_tokens": 54756539,
+      "cache_creation_tokens": 4130905,
       "models": {
-        "claude-haiku-4-5-20251001": 5703,
+        "claude-haiku-4-5-20251001": 5217,
         "claude-opus-4-6": 58714,
         "claude-sonnet-4-6": 224049
       },
@@ -167,8 +167,8 @@
       "tool_uses": 770,
       "harnesses": {
         "claude": {
-          "input_tokens": 57703,
-          "output_tokens": 288466
+          "input_tokens": 57682,
+          "output_tokens": 287980
         }
       }
     },
@@ -218,13 +218,13 @@
     "2026-03-04": {
       "sessions": 12,
       "active_minutes": 8,
-      "input_tokens": 65914,
-      "output_tokens": 120867,
-      "cache_read_tokens": 40697040,
-      "cache_creation_tokens": 1547206,
+      "input_tokens": 65866,
+      "output_tokens": 117930,
+      "cache_read_tokens": 40307029,
+      "cache_creation_tokens": 1491670,
       "models": {
-        "claude-haiku-4-5-20251001": 3052,
-        "claude-sonnet-4-6": 97808,
+        "claude-haiku-4-5-20251001": 915,
+        "claude-sonnet-4-6": 97008,
         "claude-opus-4-6": 20007
       },
       "longest_session_minutes": 3,
@@ -232,8 +232,8 @@
       "tool_uses": 293,
       "harnesses": {
         "claude": {
-          "input_tokens": 65914,
-          "output_tokens": 120867
+          "input_tokens": 65866,
+          "output_tokens": 117930
         }
       }
     },
@@ -484,12 +484,12 @@
     "2026-03-02": {
       "sessions": 45,
       "active_minutes": 31,
-      "input_tokens": 105926,
-      "output_tokens": 236031,
-      "cache_read_tokens": 56759879,
-      "cache_creation_tokens": 3864876,
+      "input_tokens": 105840,
+      "output_tokens": 234359,
+      "cache_read_tokens": 56460173,
+      "cache_creation_tokens": 3811592,
       "models": {
-        "claude-haiku-4-5-20251001": 58539,
+        "claude-haiku-4-5-20251001": 56867,
         "<synthetic>": 0,
         "claude-opus-4-6": 57598,
         "claude-sonnet-4-6": 119894
@@ -499,8 +499,8 @@
       "tool_uses": 584,
       "harnesses": {
         "claude": {
-          "input_tokens": 105926,
-          "output_tokens": 236031
+          "input_tokens": 105840,
+          "output_tokens": 234359
         }
       }
     },
@@ -615,25 +615,25 @@
       }
     },
     "2026-05-04": {
-      "sessions": 59,
-      "active_minutes": 0,
-      "input_tokens": 7923,
-      "output_tokens": 549066,
-      "cache_read_tokens": 106035414,
-      "cache_creation_tokens": 3282314,
+      "sessions": 62,
+      "active_minutes": 3,
+      "input_tokens": 8195,
+      "output_tokens": 640555,
+      "cache_read_tokens": 123363903,
+      "cache_creation_tokens": 3541527,
       "models": {
         "<synthetic>": 0,
         "claude-haiku-4-5-20251001": 8458,
-        "claude-opus-4-7": 501784,
+        "claude-opus-4-7": 593273,
         "claude-sonnet-4-6": 38824
       },
-      "longest_session_minutes": 0,
-      "message_count": 2583,
-      "tool_uses": 1528,
+      "longest_session_minutes": 2,
+      "message_count": 3099,
+      "tool_uses": 1679,
       "harnesses": {
         "claude": {
-          "input_tokens": 7923,
-          "output_tokens": 549066
+          "input_tokens": 8195,
+          "output_tokens": 640555
         }
       }
     },
@@ -706,24 +706,45 @@
       }
     },
     "2026-04-21": {
-      "sessions": 75,
-      "active_minutes": 0,
-      "input_tokens": 10686,
-      "output_tokens": 311893,
-      "cache_read_tokens": 196461522,
-      "cache_creation_tokens": 5667002,
+      "sessions": 89,
+      "active_minutes": 2,
+      "input_tokens": 11120,
+      "output_tokens": 346306,
+      "cache_read_tokens": 199636606,
+      "cache_creation_tokens": 6293327,
       "models": {
         "<synthetic>": 0,
-        "claude-opus-4-7": 15776,
-        "claude-sonnet-4-6": 296117
+        "claude-haiku-4-5-20251001": 6348,
+        "claude-opus-4-7": 33301,
+        "claude-sonnet-4-6": 306657
+      },
+      "longest_session_minutes": 1,
+      "message_count": 101,
+      "tool_uses": 3626,
+      "harnesses": {
+        "claude": {
+          "input_tokens": 11120,
+          "output_tokens": 346306
+        }
+      }
+    },
+    "2026-04-26": {
+      "sessions": 1,
+      "active_minutes": 0,
+      "input_tokens": 24,
+      "output_tokens": 503,
+      "cache_read_tokens": 0,
+      "cache_creation_tokens": 234176,
+      "models": {
+        "claude-haiku-4-5-20251001": 503
       },
       "longest_session_minutes": 0,
       "message_count": 0,
-      "tool_uses": 3487,
+      "tool_uses": 2,
       "harnesses": {
         "claude": {
-          "input_tokens": 10686,
-          "output_tokens": 311893
+          "input_tokens": 24,
+          "output_tokens": 503
         }
       }
     },
@@ -746,6 +767,26 @@
         "claude": {
           "input_tokens": 62708,
           "output_tokens": 339582
+        }
+      }
+    },
+    "2026-04-27": {
+      "sessions": 21,
+      "active_minutes": 9,
+      "input_tokens": 28205,
+      "output_tokens": 114372,
+      "cache_read_tokens": 0,
+      "cache_creation_tokens": 34732362,
+      "models": {
+        "claude-haiku-4-5-20251001": 114372
+      },
+      "longest_session_minutes": 9,
+      "message_count": 165,
+      "tool_uses": 449,
+      "harnesses": {
+        "claude": {
+          "input_tokens": 28205,
+          "output_tokens": 114372
         }
       }
     },
@@ -795,33 +836,33 @@
     "2026-04-01": {
       "sessions": 15,
       "active_minutes": 4,
-      "input_tokens": 498,
-      "output_tokens": 21249,
-      "cache_read_tokens": 2833457,
-      "cache_creation_tokens": 386353,
+      "input_tokens": 254,
+      "output_tokens": 6690,
+      "cache_read_tokens": 1758198,
+      "cache_creation_tokens": 212925,
       "models": {
-        "claude-haiku-4-5-20251001": 4168,
-        "claude-sonnet-4-6": 17081
+        "claude-haiku-4-5-20251001": 2742,
+        "claude-sonnet-4-6": 3948
       },
       "longest_session_minutes": 2,
       "message_count": 80,
       "tool_uses": 76,
       "harnesses": {
         "claude": {
-          "input_tokens": 498,
-          "output_tokens": 21249
+          "input_tokens": 254,
+          "output_tokens": 6690
         }
       }
     },
     "2026-04-08": {
       "sessions": 60,
       "active_minutes": 33,
-      "input_tokens": 23608,
-      "output_tokens": 106792,
-      "cache_read_tokens": 55764901,
-      "cache_creation_tokens": 2103352,
+      "input_tokens": 23599,
+      "output_tokens": 106031,
+      "cache_read_tokens": 55672124,
+      "cache_creation_tokens": 2079120,
       "models": {
-        "claude-sonnet-4-6": 79145,
+        "claude-sonnet-4-6": 78384,
         "<synthetic>": 0,
         "claude-haiku-4-5-20251001": 23846,
         "claude-opus-4-6": 3801
@@ -831,28 +872,29 @@
       "tool_uses": 1258,
       "harnesses": {
         "claude": {
-          "input_tokens": 23608,
-          "output_tokens": 106792
+          "input_tokens": 23599,
+          "output_tokens": 106031
         }
       }
     },
     "2026-04-30": {
-      "sessions": 23,
+      "sessions": 32,
       "active_minutes": 0,
-      "input_tokens": 190,
-      "output_tokens": 17443,
+      "input_tokens": 221,
+      "output_tokens": 18317,
       "cache_read_tokens": 2599503,
-      "cache_creation_tokens": 236575,
+      "cache_creation_tokens": 486803,
       "models": {
-        "claude-sonnet-4-6": 17443
+        "claude-haiku-4-5-20251001": 862,
+        "claude-sonnet-4-6": 17455
       },
       "longest_session_minutes": 0,
-      "message_count": 210,
-      "tool_uses": 110,
+      "message_count": 262,
+      "tool_uses": 112,
       "harnesses": {
         "claude": {
-          "input_tokens": 190,
-          "output_tokens": 17443
+          "input_tokens": 221,
+          "output_tokens": 18317
         }
       }
     },
@@ -926,23 +968,46 @@
         }
       }
     },
+    "2026-04-28": {
+      "sessions": 27,
+      "active_minutes": 9,
+      "input_tokens": 1021,
+      "output_tokens": 189590,
+      "cache_read_tokens": 370963,
+      "cache_creation_tokens": 8769235,
+      "models": {
+        "<synthetic>": 0,
+        "claude-haiku-4-5-20251001": 8294,
+        "claude-opus-4-7": 2475,
+        "claude-sonnet-4-6": 178821
+      },
+      "longest_session_minutes": 6,
+      "message_count": 573,
+      "tool_uses": 87,
+      "harnesses": {
+        "claude": {
+          "input_tokens": 1021,
+          "output_tokens": 189590
+        }
+      }
+    },
     "2026-04-09": {
       "sessions": 17,
       "active_minutes": 3,
-      "input_tokens": 418,
-      "output_tokens": 117944,
-      "cache_read_tokens": 6818266,
-      "cache_creation_tokens": 511618,
+      "input_tokens": 338,
+      "output_tokens": 89431,
+      "cache_read_tokens": 5961780,
+      "cache_creation_tokens": 390844,
       "models": {
-        "claude-sonnet-4-6": 117944
+        "claude-sonnet-4-6": 89431
       },
       "longest_session_minutes": 2,
       "message_count": 417,
       "tool_uses": 106,
       "harnesses": {
         "claude": {
-          "input_tokens": 418,
-          "output_tokens": 117944
+          "input_tokens": 338,
+          "output_tokens": 89431
         }
       }
     },
@@ -998,67 +1063,91 @@
     "2026-04-02": {
       "sessions": 4,
       "active_minutes": 4,
-      "input_tokens": 4608,
-      "output_tokens": 15993,
-      "cache_read_tokens": 5065897,
-      "cache_creation_tokens": 316269,
+      "input_tokens": 3762,
+      "output_tokens": 12284,
+      "cache_read_tokens": 3999613,
+      "cache_creation_tokens": 247244,
       "models": {
-        "claude-haiku-4-5-20251001": 3376,
-        "claude-sonnet-4-6": 12617
+        "claude-haiku-4-5-20251001": 471,
+        "claude-sonnet-4-6": 11813
       },
       "longest_session_minutes": 2,
       "message_count": 157,
       "tool_uses": 71,
       "harnesses": {
         "claude": {
-          "input_tokens": 4608,
-          "output_tokens": 15993
+          "input_tokens": 3762,
+          "output_tokens": 12284
+        }
+      }
+    },
+    "2026-04-29": {
+      "sessions": 3,
+      "active_minutes": 0,
+      "input_tokens": 69,
+      "output_tokens": 2820,
+      "cache_read_tokens": 0,
+      "cache_creation_tokens": 500429,
+      "models": {
+        "claude-haiku-4-5-20251001": 2808,
+        "claude-sonnet-4-6": 12
+      },
+      "longest_session_minutes": 0,
+      "message_count": 45,
+      "tool_uses": 10,
+      "harnesses": {
+        "claude": {
+          "input_tokens": 69,
+          "output_tokens": 2820
         }
       }
     },
     "2026-04-22": {
-      "sessions": 97,
-      "active_minutes": 43,
-      "input_tokens": 32780,
-      "output_tokens": 377032,
-      "cache_read_tokens": 197854229,
-      "cache_creation_tokens": 7120963,
+      "sessions": 110,
+      "active_minutes": 46,
+      "input_tokens": 33038,
+      "output_tokens": 395761,
+      "cache_read_tokens": 199171281,
+      "cache_creation_tokens": 7874166,
       "models": {
-        "claude-opus-4-7": 32823,
+        "claude-haiku-4-5-20251001": 3548,
+        "claude-opus-4-7": 48004,
         "claude-sonnet-4-6": 344209
       },
       "longest_session_minutes": 43,
-      "message_count": 1309,
-      "tool_uses": 3900,
+      "message_count": 1474,
+      "tool_uses": 3981,
       "harnesses": {
         "claude": {
-          "input_tokens": 32780,
-          "output_tokens": 377032
+          "input_tokens": 33038,
+          "output_tokens": 395761
         }
       }
     },
     "2026-04-24": {
-      "sessions": 3,
-      "active_minutes": 11,
-      "input_tokens": 240,
-      "output_tokens": 85495,
+      "sessions": 7,
+      "active_minutes": 14,
+      "input_tokens": 12685,
+      "output_tokens": 211416,
       "cache_read_tokens": 16045460,
-      "cache_creation_tokens": 886313,
+      "cache_creation_tokens": 14257867,
       "models": {
-        "claude-sonnet-4-6": 85495
+        "<synthetic>": 0,
+        "claude-haiku-4-5-20251001": 32576,
+        "claude-sonnet-4-6": 178840
       },
       "longest_session_minutes": 11,
-      "message_count": 1087,
-      "tool_uses": 387,
+      "message_count": 1442,
+      "tool_uses": 493,
       "harnesses": {
         "claude": {
-          "input_tokens": 240,
-          "output_tokens": 85495
+          "input_tokens": 12685,
+          "output_tokens": 211416
         }
       }
     },
     "2026-04-16": {
-      "sessions": 3,
+      "sessions": 4,
       "active_minutes": 5,
       "input_tokens": 126,
       "output_tokens": 33821,
@@ -1103,25 +1192,25 @@
       }
     },
     "2026-04-20": {
-      "sessions": 160,
+      "sessions": 191,
       "active_minutes": 43,
-      "input_tokens": 68331,
-      "output_tokens": 1312166,
-      "cache_read_tokens": 306372319,
-      "cache_creation_tokens": 10359446,
+      "input_tokens": 60173,
+      "output_tokens": 858103,
+      "cache_read_tokens": 280458287,
+      "cache_creation_tokens": 12298031,
       "models": {
-        "claude-haiku-4-5-20251001": 26674,
-        "claude-opus-4-7": 723469,
-        "claude-sonnet-4-6": 562023,
+        "claude-haiku-4-5-20251001": 25464,
+        "claude-opus-4-7": 276384,
+        "claude-sonnet-4-6": 556255,
         "<synthetic>": 0
       },
       "longest_session_minutes": 22,
-      "message_count": 3742,
-      "tool_uses": 5752,
+      "message_count": 3756,
+      "tool_uses": 5793,
       "harnesses": {
         "claude": {
-          "input_tokens": 68331,
-          "output_tokens": 1312166
+          "input_tokens": 60173,
+          "output_tokens": 858103
         }
       }
     },
@@ -1174,6 +1263,29 @@
         }
       }
     },
+    "2026-04-23": {
+      "sessions": 10,
+      "active_minutes": 0,
+      "input_tokens": 13506,
+      "output_tokens": 97683,
+      "cache_read_tokens": 9967257,
+      "cache_creation_tokens": 840085,
+      "models": {
+        "<synthetic>": 0,
+        "claude-haiku-4-5-20251001": 20719,
+        "claude-opus-4-7": 37409,
+        "claude-sonnet-4-6": 39555
+      },
+      "longest_session_minutes": 0,
+      "message_count": 359,
+      "tool_uses": 250,
+      "harnesses": {
+        "claude": {
+          "input_tokens": 13506,
+          "output_tokens": 97683
+        }
+      }
+    },
     "2026-04-19": {
       "sessions": 192,
       "active_minutes": 403,
@@ -1207,22 +1319,22 @@
     "2026-04-07": {
       "sessions": 24,
       "active_minutes": 6,
-      "input_tokens": 6274,
-      "output_tokens": 51248,
-      "cache_read_tokens": 5354718,
-      "cache_creation_tokens": 708976,
+      "input_tokens": 2763,
+      "output_tokens": 11716,
+      "cache_read_tokens": 2978780,
+      "cache_creation_tokens": 322974,
       "models": {
         "<synthetic>": 0,
-        "claude-haiku-4-5-20251001": 3890,
-        "claude-sonnet-4-6": 47358
+        "claude-haiku-4-5-20251001": 1356,
+        "claude-sonnet-4-6": 10360
       },
       "longest_session_minutes": 4,
       "message_count": 153,
       "tool_uses": 141,
       "harnesses": {
         "claude": {
-          "input_tokens": 6274,
-          "output_tokens": 51248
+          "input_tokens": 2763,
+          "output_tokens": 11716
         }
       }
     }
