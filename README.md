@@ -18,7 +18,7 @@ Most people call me Leo
 I semi-regularly post about practical and applied data science. If you like my posts, let's connect on [Linkedin](https://www.linkedin.com/in/marie-stephen-leo/) or on [Medium](https://stephen-leo.medium.com)!
 
 My Vibestats:
-- Heatmap of my work with AI Coding Agents. Supports Claude Code for now. 🌟 Github: https://github.com/stephenleo/vibestats
+- Heatmap of my work with AI Coding Agents across multiple machines. Supports Claude Code and Codex for now. 🌟 Github: https://github.com/stephenleo/vibestats
   
 <!-- vibestats-start -->
 <picture>
