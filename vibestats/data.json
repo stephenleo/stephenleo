@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-23T05:33:54Z",
+  "generated_at": "2026-05-24T02:25:36Z",
   "username": "stephenleo",
   "days": {
     "2026-03-09": {
@@ -21,7 +21,8 @@
       "harnesses": {
         "claude": {
           "input_tokens": 12776,
-          "output_tokens": 198217
+          "output_tokens": 198217,
+          "cache_creation_tokens": 2851476
         }
       }
     },
@@ -44,7 +45,8 @@
       "harnesses": {
         "claude": {
           "input_tokens": 84481,
-          "output_tokens": 246680
+          "output_tokens": 246680,
+          "cache_creation_tokens": 3871123
         }
       }
     },
@@ -67,7 +69,8 @@
       "harnesses": {
         "claude": {
           "input_tokens": 15113,
-          "output_tokens": 274688
+          "output_tokens": 274688,
+          "cache_creation_tokens": 3707147
         }
       }
     },
@@ -88,7 +91,8 @@
       "harnesses": {
         "claude": {
           "input_tokens": 2186,
-          "output_tokens": 71066
+          "output_tokens": 71066,
+          "cache_creation_tokens": 673086
         }
       }
     },
@@ -110,7 +114,8 @@
       "harnesses": {
         "claude": {
           "input_tokens": 68381,
-          "output_tokens": 1520825
+          "output_tokens": 1520825,
+          "cache_creation_tokens": 18158826
         }
       }
     },
@@ -133,7 +138,8 @@
       "harnesses": {
         "claude": {
           "input_tokens": 37654,
-          "output_tokens": 205541
+          "output_tokens": 205541,
+          "cache_creation_tokens": 4543153
         }
       }
     },
@@ -153,7 +159,8 @@
       "harnesses": {
         "claude": {
           "input_tokens": 7362,
-          "output_tokens": 8129
+          "output_tokens": 8129,
+          "cache_creation_tokens": 146820
         }
       }
     },
@@ -175,7 +182,8 @@
       "harnesses": {
         "claude": {
           "input_tokens": 11319,
-          "output_tokens": 217544
+          "output_tokens": 217544,
+          "cache_creation_tokens": 2465081
         }
       }
     },
@@ -197,7 +205,8 @@
       "harnesses": {
         "claude": {
           "input_tokens": 65866,
-          "output_tokens": 117930
+          "output_tokens": 117930,
+          "cache_creation_tokens": 1491670
         }
       }
     },
@@ -219,7 +228,8 @@
       "harnesses": {
         "claude": {
           "input_tokens": 32926,
-          "output_tokens": 1002530
+          "output_tokens": 1002530,
+          "cache_creation_tokens": 17163475
         }
       }
     },
@@ -240,7 +250,8 @@
       "harnesses": {
         "claude": {
           "input_tokens": 647,
-          "output_tokens": 12440
+          "output_tokens": 12440,
+          "cache_creation_tokens": 425408
         }
       }
     },
@@ -263,7 +274,8 @@
       "harnesses": {
         "claude": {
           "input_tokens": 33337,
-          "output_tokens": 124014
+          "output_tokens": 124014,
+          "cache_creation_tokens": 2744799
         }
       }
     },
@@ -284,7 +296,8 @@
       "harnesses": {
         "claude": {
           "input_tokens": 1285,
-          "output_tokens": 18035
+          "output_tokens": 18035,
+          "cache_creation_tokens": 182495
         }
       }
     },
@@ -306,7 +319,8 @@
       "harnesses": {
         "claude": {
           "input_tokens": 61764,
-          "output_tokens": 400856
+          "output_tokens": 400856,
+          "cache_creation_tokens": 5209978
         }
       }
     },
@@ -329,7 +343,8 @@
       "harnesses": {
         "claude": {
           "input_tokens": 78491,
-          "output_tokens": 604316
+          "output_tokens": 604316,
+          "cache_creation_tokens": 9817278
         }
       }
     },
@@ -351,7 +366,8 @@
       "harnesses": {
         "claude": {
           "input_tokens": 11833,
-          "output_tokens": 135669
+          "output_tokens": 135669,
+          "cache_creation_tokens": 2812912
         }
       }
     },
@@ -374,7 +390,8 @@
       "harnesses": {
         "claude": {
           "input_tokens": 105840,
-          "output_tokens": 234359
+          "output_tokens": 234359,
+          "cache_creation_tokens": 3811592
         }
       }
     },
@@ -395,7 +412,8 @@
       "harnesses": {
         "claude": {
           "input_tokens": 27214,
-          "output_tokens": 70010
+          "output_tokens": 70010,
+          "cache_creation_tokens": 1233338
         }
       }
     },
@@ -417,7 +435,8 @@
       "harnesses": {
         "claude": {
           "input_tokens": 17194,
-          "output_tokens": 13304
+          "output_tokens": 13304,
+          "cache_creation_tokens": 351130
         }
       }
     },
@@ -440,7 +459,8 @@
       "harnesses": {
         "claude": {
           "input_tokens": 120857,
-          "output_tokens": 563115
+          "output_tokens": 563115,
+          "cache_creation_tokens": 7512973
         }
       }
     },
@@ -462,7 +482,8 @@
       "harnesses": {
         "claude": {
           "input_tokens": 46381,
-          "output_tokens": 703591
+          "output_tokens": 703591,
+          "cache_creation_tokens": 6089579
         }
       }
     },
@@ -484,7 +505,8 @@
       "harnesses": {
         "claude": {
           "input_tokens": 57682,
-          "output_tokens": 287980
+          "output_tokens": 287980,
+          "cache_creation_tokens": 4130905
         }
       }
     },
@@ -504,7 +526,8 @@
       "harnesses": {
         "claude": {
           "input_tokens": 338,
-          "output_tokens": 89431
+          "output_tokens": 89431,
+          "cache_creation_tokens": 390844
         }
       }
     },
@@ -525,7 +548,8 @@
       "harnesses": {
         "claude": {
           "input_tokens": 254,
-          "output_tokens": 6690
+          "output_tokens": 6690,
+          "cache_creation_tokens": 212925
         }
       }
     },
@@ -545,7 +569,8 @@
       "harnesses": {
         "claude": {
           "input_tokens": 28205,
-          "output_tokens": 114372
+          "output_tokens": 114372,
+          "cache_creation_tokens": 34732362
         }
       }
     },
@@ -568,7 +593,8 @@
       "harnesses": {
         "claude": {
           "input_tokens": 13506,
-          "output_tokens": 97683
+          "output_tokens": 97683,
+          "cache_creation_tokens": 840085
         }
       }
     },
@@ -591,11 +617,13 @@
       "harnesses": {
         "codex": {
           "input_tokens": 1028099,
-          "output_tokens": 117192
+          "output_tokens": 117192,
+          "cache_creation_tokens": 0
         },
         "claude": {
           "input_tokens": 56613,
-          "output_tokens": 1027574
+          "output_tokens": 1027574,
+          "cache_creation_tokens": 9225662
         }
       }
     },
@@ -619,11 +647,13 @@
       "harnesses": {
         "codex": {
           "input_tokens": 119082,
-          "output_tokens": 8915
+          "output_tokens": 8915,
+          "cache_creation_tokens": 0
         },
         "claude": {
           "input_tokens": 58832,
-          "output_tokens": 1110651
+          "output_tokens": 1110651,
+          "cache_creation_tokens": 11300351
         }
       }
     },
@@ -646,7 +676,8 @@
       "harnesses": {
         "claude": {
           "input_tokens": 11120,
-          "output_tokens": 346306
+          "output_tokens": 346306,
+          "cache_creation_tokens": 6293327
         }
       }
     },
@@ -667,7 +698,8 @@
       "harnesses": {
         "claude": {
           "input_tokens": 1261,
-          "output_tokens": 57678
+          "output_tokens": 57678,
+          "cache_creation_tokens": 250453
         }
       }
     },
@@ -687,7 +719,8 @@
       "harnesses": {
         "claude": {
           "input_tokens": 24,
-          "output_tokens": 503
+          "output_tokens": 503,
+          "cache_creation_tokens": 234176
         }
       }
     },
@@ -709,7 +742,8 @@
       "harnesses": {
         "claude": {
           "input_tokens": 17002,
-          "output_tokens": 150350
+          "output_tokens": 150350,
+          "cache_creation_tokens": 2963672
         }
       }
     },
@@ -730,7 +764,8 @@
       "harnesses": {
         "claude": {
           "input_tokens": 69,
-          "output_tokens": 2820
+          "output_tokens": 2820,
+          "cache_creation_tokens": 500429
         }
       }
     },
@@ -752,7 +787,8 @@
       "harnesses": {
         "claude": {
           "input_tokens": 126,
-          "output_tokens": 33821
+          "output_tokens": 33821,
+          "cache_creation_tokens": 282923
         }
       }
     },
@@ -775,7 +811,8 @@
       "harnesses": {
         "claude": {
           "input_tokens": 47906,
-          "output_tokens": 706011
+          "output_tokens": 706011,
+          "cache_creation_tokens": 6161125
         }
       }
     },
@@ -797,7 +834,8 @@
       "harnesses": {
         "claude": {
           "input_tokens": 15794,
-          "output_tokens": 181246
+          "output_tokens": 181246,
+          "cache_creation_tokens": 4047216
         }
       }
     },
@@ -819,7 +857,8 @@
       "harnesses": {
         "claude": {
           "input_tokens": 33038,
-          "output_tokens": 395761
+          "output_tokens": 395761,
+          "cache_creation_tokens": 7874166
         }
       }
     },
@@ -842,7 +881,8 @@
       "harnesses": {
         "claude": {
           "input_tokens": 1021,
-          "output_tokens": 189590
+          "output_tokens": 189590,
+          "cache_creation_tokens": 8769235
         }
       }
     },
@@ -865,7 +905,8 @@
       "harnesses": {
         "claude": {
           "input_tokens": 23599,
-          "output_tokens": 106031
+          "output_tokens": 106031,
+          "cache_creation_tokens": 2079120
         }
       }
     },
@@ -887,7 +928,8 @@
       "harnesses": {
         "claude": {
           "input_tokens": 29349,
-          "output_tokens": 311995
+          "output_tokens": 311995,
+          "cache_creation_tokens": 4393524
         }
       }
     },
@@ -908,7 +950,8 @@
       "harnesses": {
         "claude": {
           "input_tokens": 3762,
-          "output_tokens": 12284
+          "output_tokens": 12284,
+          "cache_creation_tokens": 247244
         }
       }
     },
@@ -930,7 +973,8 @@
       "harnesses": {
         "claude": {
           "input_tokens": 4068,
-          "output_tokens": 239282
+          "output_tokens": 239282,
+          "cache_creation_tokens": 1373155
         }
       }
     },
@@ -953,7 +997,8 @@
       "harnesses": {
         "claude": {
           "input_tokens": 60173,
-          "output_tokens": 858103
+          "output_tokens": 858103,
+          "cache_creation_tokens": 12298031
         }
       }
     },
@@ -973,7 +1018,8 @@
       "harnesses": {
         "codex": {
           "input_tokens": 1159450,
-          "output_tokens": 154947
+          "output_tokens": 154947,
+          "cache_creation_tokens": 0
         }
       }
     },
@@ -995,7 +1041,8 @@
       "harnesses": {
         "claude": {
           "input_tokens": 2763,
-          "output_tokens": 11716
+          "output_tokens": 11716,
+          "cache_creation_tokens": 322974
         }
       }
     },
@@ -1017,7 +1064,8 @@
       "harnesses": {
         "claude": {
           "input_tokens": 12685,
-          "output_tokens": 211416
+          "output_tokens": 211416,
+          "cache_creation_tokens": 14257867
         }
       }
     },
@@ -1040,11 +1088,13 @@
       "harnesses": {
         "codex": {
           "input_tokens": 746824,
-          "output_tokens": 37704
+          "output_tokens": 37704,
+          "cache_creation_tokens": 0
         },
         "claude": {
           "input_tokens": 36984,
-          "output_tokens": 167979
+          "output_tokens": 167979,
+          "cache_creation_tokens": 1811191
         }
       }
     },
@@ -1070,11 +1120,13 @@
       "harnesses": {
         "codex": {
           "input_tokens": 2364549,
-          "output_tokens": 340238
+          "output_tokens": 340238,
+          "cache_creation_tokens": 0
         },
         "claude": {
           "input_tokens": 40418,
-          "output_tokens": 968179
+          "output_tokens": 968179,
+          "cache_creation_tokens": 8149147
         }
       }
     },
@@ -1095,7 +1147,8 @@
       "harnesses": {
         "claude": {
           "input_tokens": 221,
-          "output_tokens": 18317
+          "output_tokens": 18317,
+          "cache_creation_tokens": 486803
         }
       }
     },
@@ -1117,7 +1170,8 @@
       "harnesses": {
         "claude": {
           "input_tokens": 62708,
-          "output_tokens": 339582
+          "output_tokens": 339582,
+          "cache_creation_tokens": 6686668
         }
       }
     },
@@ -1139,7 +1193,8 @@
       "harnesses": {
         "claude": {
           "input_tokens": 6603,
-          "output_tokens": 106441
+          "output_tokens": 106441,
+          "cache_creation_tokens": 1386842
         }
       }
     },
@@ -1161,7 +1216,30 @@
       "harnesses": {
         "claude": {
           "input_tokens": 15926,
-          "output_tokens": 301718
+          "output_tokens": 301718,
+          "cache_creation_tokens": 2152025
+        }
+      }
+    },
+    "2026-05-23": {
+      "sessions": 9,
+      "active_minutes": 1,
+      "input_tokens": 1917,
+      "output_tokens": 172438,
+      "cache_read_tokens": 22765037,
+      "cache_creation_tokens": 702249,
+      "models": {
+        "claude-haiku-4-5-20251001": 90573,
+        "claude-opus-4-7": 81865
+      },
+      "longest_session_minutes": 1,
+      "message_count": 849,
+      "tool_uses": 199,
+      "harnesses": {
+        "claude": {
+          "input_tokens": 1917,
+          "output_tokens": 172438,
+          "cache_creation_tokens": 702249
         }
       }
     },
@@ -1183,7 +1261,8 @@
       "harnesses": {
         "claude": {
           "input_tokens": 3851,
-          "output_tokens": 228578
+          "output_tokens": 228578,
+          "cache_creation_tokens": 1367931
         }
       }
     },
@@ -1205,7 +1284,8 @@
       "harnesses": {
         "claude": {
           "input_tokens": 452,
-          "output_tokens": 97633
+          "output_tokens": 97633,
+          "cache_creation_tokens": 718351
         }
       }
     },
@@ -1227,7 +1307,8 @@
       "harnesses": {
         "claude": {
           "input_tokens": 1456,
-          "output_tokens": 360362
+          "output_tokens": 360362,
+          "cache_creation_tokens": 1461203
         }
       }
     },
@@ -1250,7 +1331,8 @@
       "harnesses": {
         "claude": {
           "input_tokens": 8212,
-          "output_tokens": 642275
+          "output_tokens": 642275,
+          "cache_creation_tokens": 3544822
         }
       }
     },
@@ -1270,7 +1352,8 @@
       "harnesses": {
         "claude": {
           "input_tokens": 271,
-          "output_tokens": 104403
+          "output_tokens": 104403,
+          "cache_creation_tokens": 672161
         }
       }
     },
@@ -1290,7 +1373,8 @@
       "harnesses": {
         "claude": {
           "input_tokens": 4303,
-          "output_tokens": 416014
+          "output_tokens": 416014,
+          "cache_creation_tokens": 1432233
         }
       }
     },
@@ -1313,7 +1397,8 @@
       "harnesses": {
         "claude": {
           "input_tokens": 3639,
-          "output_tokens": 320302
+          "output_tokens": 320302,
+          "cache_creation_tokens": 1314556
         }
       }
     },
@@ -1336,7 +1421,8 @@
       "harnesses": {
         "claude": {
           "input_tokens": 7700,
-          "output_tokens": 505806
+          "output_tokens": 505806,
+          "cache_creation_tokens": 3216504
         }
       }
     },
@@ -1360,11 +1446,13 @@
       "harnesses": {
         "codex": {
           "input_tokens": 2346722,
-          "output_tokens": 152990
+          "output_tokens": 152990,
+          "cache_creation_tokens": 0
         },
         "claude": {
           "input_tokens": 31850,
-          "output_tokens": 255039
+          "output_tokens": 255039,
+          "cache_creation_tokens": 2086857
         }
       }
     },
@@ -1382,7 +1470,8 @@
       "harnesses": {
         "claude": {
           "input_tokens": 0,
-          "output_tokens": 0
+          "output_tokens": 0,
+          "cache_creation_tokens": 0
         }
       }
     },
@@ -1402,7 +1491,8 @@
       "harnesses": {
         "claude": {
           "input_tokens": 142,
-          "output_tokens": 34517
+          "output_tokens": 34517,
+          "cache_creation_tokens": 121146
         }
       }
     },
@@ -1425,7 +1515,8 @@
       "harnesses": {
         "claude": {
           "input_tokens": 8090,
-          "output_tokens": 492628
+          "output_tokens": 492628,
+          "cache_creation_tokens": 2526465
         }
       }
     },
@@ -1447,7 +1538,8 @@
       "harnesses": {
         "claude": {
           "input_tokens": 686,
-          "output_tokens": 111340
+          "output_tokens": 111340,
+          "cache_creation_tokens": 996681
         }
       }
     },
@@ -1469,7 +1561,31 @@
       "harnesses": {
         "claude": {
           "input_tokens": 3894,
-          "output_tokens": 357922
+          "output_tokens": 357922,
+          "cache_creation_tokens": 1839866
+        }
+      }
+    },
+    "2026-05-24": {
+      "sessions": 5,
+      "active_minutes": 4,
+      "input_tokens": 2409,
+      "output_tokens": 203171,
+      "cache_read_tokens": 44872436,
+      "cache_creation_tokens": 1330165,
+      "models": {
+        "<synthetic>": 0,
+        "claude-haiku-4-5-20251001": 103087,
+        "claude-opus-4-7": 100084
+      },
+      "longest_session_minutes": 4,
+      "message_count": 861,
+      "tool_uses": 324,
+      "harnesses": {
+        "claude": {
+          "input_tokens": 2409,
+          "output_tokens": 203171,
+          "cache_creation_tokens": 1330165
         }
       }
     },
@@ -1491,7 +1607,8 @@
       "harnesses": {
         "claude": {
           "input_tokens": 344,
-          "output_tokens": 128529
+          "output_tokens": 128529,
+          "cache_creation_tokens": 353835
         }
       }
     },
@@ -1513,7 +1630,8 @@
       "harnesses": {
         "claude": {
           "input_tokens": 4246,
-          "output_tokens": 104976
+          "output_tokens": 104976,
+          "cache_creation_tokens": 521841
         }
       }
     },
@@ -1533,7 +1651,8 @@
       "harnesses": {
         "claude": {
           "input_tokens": 6,
-          "output_tokens": 73
+          "output_tokens": 73,
+          "cache_creation_tokens": 15469
         }
       }
     },
@@ -1554,7 +1673,8 @@
       "harnesses": {
         "claude": {
           "input_tokens": 992,
-          "output_tokens": 307
+          "output_tokens": 307,
+          "cache_creation_tokens": 157010
         }
       }
     },
@@ -1576,7 +1696,8 @@
       "harnesses": {
         "claude": {
           "input_tokens": 3914,
-          "output_tokens": 1463
+          "output_tokens": 1463,
+          "cache_creation_tokens": 906061
         }
       }
     },
@@ -1596,7 +1717,8 @@
       "harnesses": {
         "claude": {
           "input_tokens": 57,
-          "output_tokens": 21
+          "output_tokens": 21,
+          "cache_creation_tokens": 102203
         }
       }
     },
@@ -1618,7 +1740,8 @@
       "harnesses": {
         "claude": {
           "input_tokens": 34766,
-          "output_tokens": 154063
+          "output_tokens": 154063,
+          "cache_creation_tokens": 3227591
         }
       }
     },
@@ -1639,7 +1762,8 @@
       "harnesses": {
         "claude": {
           "input_tokens": 1006,
-          "output_tokens": 47
+          "output_tokens": 47,
+          "cache_creation_tokens": 110752
         }
       }
     },
@@ -1659,7 +1783,8 @@
       "harnesses": {
         "claude": {
           "input_tokens": 145,
-          "output_tokens": 33
+          "output_tokens": 33,
+          "cache_creation_tokens": 21893
         }
       }
     }
