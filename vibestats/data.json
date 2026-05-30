@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-29T06:05:59Z",
+  "generated_at": "2026-05-30T05:41:41Z",
   "username": "stephenleo",
   "days": {
     "2026-03-31": {
@@ -1614,6 +1614,29 @@
           "input_tokens": 1632,
           "output_tokens": 176923,
           "cache_creation_tokens": 846252
+        }
+      }
+    },
+    "2026-05-29": {
+      "sessions": 9,
+      "active_minutes": 0,
+      "input_tokens": 37129,
+      "output_tokens": 334508,
+      "cache_read_tokens": 51216359,
+      "cache_creation_tokens": 1983136,
+      "models": {
+        "<synthetic>": 0,
+        "claude-haiku-4-5-20251001": 140581,
+        "claude-opus-4-8": 193927
+      },
+      "longest_session_minutes": 0,
+      "message_count": 1116,
+      "tool_uses": 204,
+      "harnesses": {
+        "claude": {
+          "input_tokens": 37129,
+          "output_tokens": 334508,
+          "cache_creation_tokens": 1983136
         }
       }
     },
