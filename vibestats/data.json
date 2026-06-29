@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-29T03:05:12Z",
+  "generated_at": "2026-06-29T03:23:22Z",
   "username": "stephenleo",
   "days": {
     "2026-04-05": {
@@ -710,12 +710,12 @@
     "2026-05-30": {
       "sessions": 29,
       "active_minutes": 1,
-      "input_tokens": 99490,
-      "output_tokens": 302699,
-      "cache_read_tokens": 44862455,
-      "cache_creation_tokens": 2962107,
+      "input_tokens": 99500,
+      "output_tokens": 303293,
+      "cache_read_tokens": 44894342,
+      "cache_creation_tokens": 2962699,
       "models": {
-        "claude-haiku-4-5-20251001": 134816,
+        "claude-haiku-4-5-20251001": 135410,
         "claude-opus-4-8": 157510,
         "claude-sonnet-4-6": 10373
       },
@@ -724,9 +724,9 @@
       "tool_uses": 351,
       "harnesses": {
         "claude": {
-          "input_tokens": 99490,
-          "output_tokens": 302699,
-          "cache_creation_tokens": 2962107
+          "input_tokens": 99500,
+          "output_tokens": 303293,
+          "cache_creation_tokens": 2962699
         }
       }
     },
@@ -1923,53 +1923,72 @@
       }
     },
     "2026-06-28": {
-      "sessions": 88,
-      "active_minutes": 22,
-      "input_tokens": 133948,
-      "output_tokens": 151376,
-      "cache_read_tokens": 14105998,
-      "cache_creation_tokens": 813912,
+      "sessions": 89,
+      "active_minutes": 7,
+      "input_tokens": 134583,
+      "output_tokens": 183533,
+      "cache_read_tokens": 19990383,
+      "cache_creation_tokens": 1039645,
       "models": {
-        "claude-haiku-4-5-20251001": 57563,
-        "claude-opus-4-8": 93299,
+        "claude-haiku-4-5-20251001": 57907,
+        "claude-opus-4-8": 125112,
         "claude-sonnet-4-6": 514
       },
-      "longest_session_minutes": 22,
-      "message_count": 818,
-      "tool_uses": 212,
+      "longest_session_minutes": 7,
+      "message_count": 962,
+      "tool_uses": 239,
       "harnesses": {
         "claude": {
-          "input_tokens": 133948,
-          "output_tokens": 151376,
-          "cache_creation_tokens": 813912
+          "input_tokens": 134583,
+          "output_tokens": 183533,
+          "cache_creation_tokens": 1039645
+        }
+      }
+    },
+    "2026-06-23": {
+      "sessions": 1,
+      "active_minutes": 0,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_tokens": 0,
+      "cache_creation_tokens": 0,
+      "models": {},
+      "longest_session_minutes": 0,
+      "message_count": 0,
+      "tool_uses": 0,
+      "harnesses": {
+        "claude": {
+          "input_tokens": 0,
+          "output_tokens": 0,
+          "cache_creation_tokens": 0
         }
       }
     },
     "2026-06-29": {
-      "sessions": 243,
-      "active_minutes": 13,
-      "input_tokens": 122311,
-      "output_tokens": 382853,
-      "cache_read_tokens": 52812490,
-      "cache_creation_tokens": 2281557,
+      "sessions": 283,
+      "active_minutes": 12,
+      "input_tokens": 124391,
+      "output_tokens": 485726,
+      "cache_read_tokens": 74669515,
+      "cache_creation_tokens": 2772556,
       "models": {
-        "claude-haiku-4-5-20251001": 147955,
-        "claude-opus-4-8": 232338,
+        "claude-haiku-4-5-20251001": 178847,
+        "claude-opus-4-8": 304319,
         "claude-sonnet-4-6": 2560
       },
       "longest_session_minutes": 10,
-      "message_count": 1980,
-      "tool_uses": 518,
+      "message_count": 2285,
+      "tool_uses": 572,
       "harnesses": {
         "claude": {
-          "input_tokens": 122311,
-          "output_tokens": 382853,
-          "cache_creation_tokens": 2281557
+          "input_tokens": 124391,
+          "output_tokens": 485726,
+          "cache_creation_tokens": 2772556
         }
       }
     },
     "2026-06-27": {
-      "sessions": 513,
+      "sessions": 514,
       "active_minutes": 11,
       "input_tokens": 260254,
       "output_tokens": 956976,
@@ -1993,7 +2012,7 @@
       }
     },
     "2026-06-26": {
-      "sessions": 47,
+      "sessions": 48,
       "active_minutes": 5,
       "input_tokens": 149440,
       "output_tokens": 382922,
@@ -2017,38 +2036,39 @@
       }
     },
     "2026-06-10": {
-      "sessions": 251,
-      "active_minutes": 43,
-      "input_tokens": 253443,
-      "output_tokens": 402899,
-      "cache_read_tokens": 35250265,
-      "cache_creation_tokens": 3124704,
+      "sessions": 256,
+      "active_minutes": 29,
+      "input_tokens": 278133,
+      "output_tokens": 512675,
+      "cache_read_tokens": 45922078,
+      "cache_creation_tokens": 3427577,
       "models": {
-        "claude-fable-5": 46973,
-        "claude-haiku-4-5-20251001": 195147,
+        "<synthetic>": 0,
+        "claude-fable-5": 155167,
+        "claude-haiku-4-5-20251001": 196729,
         "claude-opus-4-8": 118310,
         "claude-sonnet-4-6": 42469
       },
-      "longest_session_minutes": 14,
-      "message_count": 1470,
-      "tool_uses": 996,
+      "longest_session_minutes": 10,
+      "message_count": 2922,
+      "tool_uses": 1249,
       "harnesses": {
         "claude": {
-          "input_tokens": 253443,
-          "output_tokens": 402899,
-          "cache_creation_tokens": 3124704
+          "input_tokens": 278133,
+          "output_tokens": 512675,
+          "cache_creation_tokens": 3427577
         }
       }
     },
     "2026-06-12": {
       "sessions": 51,
       "active_minutes": 35,
-      "input_tokens": 36887,
-      "output_tokens": 234959,
-      "cache_read_tokens": 33794277,
-      "cache_creation_tokens": 654184,
+      "input_tokens": 36907,
+      "output_tokens": 238019,
+      "cache_read_tokens": 33818413,
+      "cache_creation_tokens": 658793,
       "models": {
-        "claude-haiku-4-5-20251001": 100806,
+        "claude-haiku-4-5-20251001": 103866,
         "claude-opus-4-8": 134153
       },
       "longest_session_minutes": 35,
@@ -2056,14 +2076,14 @@
       "tool_uses": 215,
       "harnesses": {
         "claude": {
-          "input_tokens": 36887,
-          "output_tokens": 234959,
-          "cache_creation_tokens": 654184
+          "input_tokens": 36907,
+          "output_tokens": 238019,
+          "cache_creation_tokens": 658793
         }
       }
     },
     "2026-06-11": {
-      "sessions": 110,
+      "sessions": 111,
       "active_minutes": 5,
       "input_tokens": 60945,
       "output_tokens": 210148,
@@ -2086,5 +2106,6 @@
         }
       }
     }
-  }
+  },
+  "github_contributions": {}
 }
