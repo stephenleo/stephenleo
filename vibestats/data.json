@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-10T05:56:14Z",
+  "generated_at": "2026-07-11T04:56:40Z",
   "username": "stephenleo",
   "days": {
     "2026-04-05": {
@@ -2220,24 +2220,26 @@
       }
     },
     "2026-07-10": {
-      "sessions": 18,
-      "active_minutes": 0,
-      "input_tokens": 72210,
-      "output_tokens": 121488,
-      "cache_read_tokens": 11278460,
-      "cache_creation_tokens": 799049,
+      "sessions": 50,
+      "active_minutes": 11,
+      "input_tokens": 378646,
+      "output_tokens": 477017,
+      "cache_read_tokens": 58568940,
+      "cache_creation_tokens": 3192220,
       "models": {
-        "claude-haiku-4-5-20251001": 117022,
-        "claude-opus-4-8": 4466
+        "claude-fable-5": 133665,
+        "claude-haiku-4-5-20251001": 325793,
+        "claude-opus-4-8": 4484,
+        "claude-sonnet-5": 13075
       },
-      "longest_session_minutes": 0,
-      "message_count": 0,
-      "tool_uses": 96,
+      "longest_session_minutes": 10,
+      "message_count": 1622,
+      "tool_uses": 586,
       "harnesses": {
         "claude": {
-          "input_tokens": 72210,
-          "output_tokens": 121488,
-          "cache_creation_tokens": 799049
+          "input_tokens": 378646,
+          "output_tokens": 477017,
+          "cache_creation_tokens": 3192220
         }
       }
     },
@@ -9835,11 +9837,11 @@
       "total": 11
     },
     "2026-07-10": {
-      "commits": 3,
+      "commits": 9,
       "issues": 0,
-      "prs": 2,
+      "prs": 6,
       "reviews": 0,
-      "total": 49
+      "total": 115
     }
   }
 }
