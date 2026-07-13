@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-13T06:21:38Z",
+  "generated_at": "2026-07-13T07:53:50Z",
   "username": "stephenleo",
   "days": {
     "2026-04-05": {
@@ -2125,32 +2125,32 @@
       }
     },
     "2026-07-13": {
-      "sessions": 229,
-      "active_minutes": 288,
-      "input_tokens": 577007,
-      "output_tokens": 460078,
-      "cache_read_tokens": 74148034,
-      "cache_creation_tokens": 2953772,
+      "sessions": 264,
+      "active_minutes": 400,
+      "input_tokens": 954323,
+      "output_tokens": 647107,
+      "cache_read_tokens": 119085225,
+      "cache_creation_tokens": 4333327,
       "models": {
-        "gpt-5.6-sol": 31910,
+        "gpt-5.6-sol": 74156,
         "claude-fable-5": 147547,
-        "claude-haiku-4-5-20251001": 257051,
-        "claude-opus-4-8": 13485,
-        "claude-sonnet-5": 10085
+        "claude-haiku-4-5-20251001": 336195,
+        "claude-opus-4-8": 73464,
+        "claude-sonnet-5": 15745
       },
       "longest_session_minutes": 188,
-      "message_count": 1112,
-      "tool_uses": 661,
+      "message_count": 1783,
+      "tool_uses": 1006,
       "harnesses": {
         "codex": {
-          "input_tokens": 566742,
-          "output_tokens": 31910,
+          "input_tokens": 938123,
+          "output_tokens": 74156,
           "cache_creation_tokens": 0
         },
         "claude": {
-          "input_tokens": 10265,
-          "output_tokens": 428168,
-          "cache_creation_tokens": 2953772
+          "input_tokens": 16200,
+          "output_tokens": 572951,
+          "cache_creation_tokens": 4333327
         }
       }
     },
@@ -9906,11 +9906,11 @@
       "total": 246
     },
     "2026-07-13": {
-      "commits": 2,
+      "commits": 5,
       "issues": 0,
-      "prs": 2,
+      "prs": 5,
       "reviews": 0,
-      "total": 98
+      "total": 130
     }
   }
 }
