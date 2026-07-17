@@ -8,17 +8,19 @@ Most people call me Leo
 [![dev.to badge](https://img.shields.io/badge/-Medium-blueviolet?style=flat&logo=medium)](https://stephen-leo.medium.com/)
 [![dev.to badge](https://img.shields.io/badge/-🤗%20Huggingface%20Space-blue?style=flat)](https://huggingface.co/stephenleo)
 
-- ⚡ I lead the Data & Product organisation at Sephora APAC. My scope covers Data Science & AI, Machine Learning, Data Engineering, Data Analytics, BI, Product and UX teams. 
-- ⌛ I've several years of experience building AI/ML products in e-commerce, public relations and high-tech manufacturing industries using AWS, GCP and on-prem.
-- 🦄 I've developed entire Data products end-end (Algorithms, Data Engineering, Backend, Microservice middle layer and Frontend) in the Python and AWS/GCP ecosystems.
-- 🔥 I was also a part time Data Science Instructor.
-- ✍️ In my free time I'm a Freelance Technical Writer. I'm a LinkedIn Top Voice (blue badge). I've achieved "Top writer in Artificial Intelligence" on Medium several times.
-- 💪 I have 15+ years of ML experience across NLP (including LLMOps), RecSys, MLOps, Data Engineering, Data Analytics, Computer Vision, and Tabular data. I’ve published multiple technical blog posts on Medium (1000+ followers) and co-authored a paper in ACL 2020 on unsupervised topic modelling of e-commerce reviews. 
+- I'm an AI Specialist at Amazon Web Services, helping customers design and deliver production AI applications that solve real business problems.
+- Most recently, I was Director of Data & Product at Sephora APAC, leading Data Science & AI, Machine Learning, Data Engineering, Data Analytics, Business Intelligence (BI), Product, and UX.
+- Previously, I led Data Science and Data Engineering teams at Edelman, Tokopedia (now ByteDance), and Micron Semiconductor.
+- I have 16 years of experience building and leading AI/ML products across retail, e-commerce, public relations, and semiconductor manufacturing using AWS, GCP, and on-premises technologies. My expertise spans GenAI, NLP, LLMOps, recommender systems (RecSys), MLOps, data engineering, data analytics, computer vision, tabular machine learning, search, and data platforms.
+- I've built end-to-end data products spanning algorithms, data engineering, backend systems, microservices, and frontend applications using Python, AWS, and GCP.
+- I was also a part-time Data Science Instructor at General Assembly.
+- I’ve published technical articles on Medium (1,000+ followers), co-authored an ACL 2020 paper on unsupervised topic modelling of e-commerce reviews, written commissioned Zilliz articles on [embedding generation](https://zilliz.com/learn/embedding-generation) and [production semantic similarity search](https://zilliz.com/learn/supercharged-semantic-similarity-search-in-production), and created a commissioned [AWS SageMaker video course series](https://github.com/stephenleo/sagemaker-deployment) for KnowledgeHut.
+- I was recognized as a LinkedIn Top Voice (blue badge) in 2025 and named a Top Writer in Artificial Intelligence on Medium multiple times.
 
-I semi-regularly post about practical and applied data science. If you like my posts, let's connect on [Linkedin](https://www.linkedin.com/in/marie-stephen-leo/) or on [Medium](https://stephen-leo.medium.com)!
+Let's connect on [LinkedIn](https://www.linkedin.com/in/marie-stephen-leo/).
 
 My Vibestats:
-- Heatmap of my work with AI Coding Agents across multiple machines. Supports Claude Code and Codex for now. 🌟 Github: https://github.com/stephenleo/vibestats
+- My Vibestats dashboard visualizes my work with AI coding agents across multiple machines and currently supports Claude Code and Codex. 🌟 GitHub: [stephenleo/vibestats](https://github.com/stephenleo/vibestats)
   
 <!-- vibestats-start -->
 <picture>
@@ -27,6 +29,7 @@ My Vibestats:
   <img src="https://raw.githubusercontent.com/stephenleo/stephenleo/main/vibestats/heatmap.svg" alt="vibestats heatmap" />
 </picture>
 
+- My Github contributions heatmap including private contributions
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/stephenleo/stephenleo/main/vibestats/github-contributions-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/stephenleo/stephenleo/main/vibestats/github-contributions.svg" />
