@@ -9,10 +9,10 @@ Most people call me Leo
 [![dev.to badge](https://img.shields.io/badge/-🤗%20Huggingface%20Space-blue?style=flat)](https://huggingface.co/stephenleo)
 
 - 💼 My career so far:
-  - 🚀 Amazon Web Services: AI Specialist. I help customers design and deliver production AI applications that solve real business problems.
-  - 💄 Sephora APAC: Director of Data & Product. I led Data Science & AI, Machine Learning, Data Engineering, Data Analytics, Business Intelligence (BI), Product, and UX.
-  - 👥 Edelman, Tokopedia (now ByteDance), and Micron Semiconductor: I led Data Science and Data Engineering teams.
-  - 🎓 General Assembly: part-time Data Science Instructor.
+  - Amazon Web Services: AI Specialist. I help customers design and deliver production AI applications that solve real business problems.
+  - Sephora APAC: Director of Data & Product. I led Data Science & AI, Machine Learning, Data Engineering, Data Analytics, Business Intelligence (BI), Product, and UX.
+  - Edelman, Tokopedia (now ByteDance), and Micron Semiconductor: I led Data Science and Data Engineering teams.
+  - General Assembly: part-time Data Science Instructor.
 - 🛠️ I have 16 years of experience building and leading AI/ML products:
   - Industries: retail, e-commerce, public relations, and semiconductor manufacturing.
   - Expertise: GenAI, NLP, LLMOps, recommender systems (RecSys), MLOps, data engineering, data analytics, computer vision, tabular machine learning, search, and data platforms.
