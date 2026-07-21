@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-20T05:32:00Z",
+  "generated_at": "2026-07-21T05:13:12Z",
   "username": "stephenleo",
   "days": {
     "2026-03-28": {
@@ -2419,31 +2419,33 @@
       }
     },
     "2026-07-20": {
-      "sessions": 35,
-      "active_minutes": 302,
-      "input_tokens": 2832522,
-      "output_tokens": 167395,
-      "cache_read_tokens": 65815447,
-      "cache_creation_tokens": 154509,
+      "sessions": 113,
+      "active_minutes": 388,
+      "input_tokens": 3660578,
+      "output_tokens": 859012,
+      "cache_read_tokens": 186003968,
+      "cache_creation_tokens": 4601745,
       "models": {
-        "claude-fable-5": 937,
-        "claude-haiku-4-5-20251001": 10071,
-        "claude-opus-4-8": 2795,
-        "codex-auto-review": 8777,
-        "gpt-5.6-sol": 144815
+        "<synthetic>": 0,
+        "claude-fable-5": 13131,
+        "claude-haiku-4-5-20251001": 441023,
+        "claude-opus-4-8": 186354,
+        "claude-sonnet-5": 6015,
+        "codex-auto-review": 10569,
+        "gpt-5.6-sol": 201920
       },
       "longest_session_minutes": 95,
-      "message_count": 226,
-      "tool_uses": 162,
+      "message_count": 1814,
+      "tool_uses": 1113,
       "harnesses": {
         "claude": {
-          "input_tokens": 3795,
-          "output_tokens": 13803,
-          "cache_creation_tokens": 154509
+          "input_tokens": 36600,
+          "output_tokens": 646523,
+          "cache_creation_tokens": 4601745
         },
         "codex": {
-          "input_tokens": 2828727,
-          "output_tokens": 153592,
+          "input_tokens": 3623978,
+          "output_tokens": 212489,
           "cache_creation_tokens": 0
         }
       }
@@ -2500,6 +2502,28 @@
           "input_tokens": 1702,
           "output_tokens": 112948,
           "cache_creation_tokens": 1609193
+        }
+      }
+    },
+    "2026-07-21": {
+      "sessions": 12,
+      "active_minutes": 353,
+      "input_tokens": 2605586,
+      "output_tokens": 151806,
+      "cache_read_tokens": 43182080,
+      "cache_creation_tokens": 0,
+      "models": {
+        "codex-auto-review": 5084,
+        "gpt-5.6-sol": 146722
+      },
+      "longest_session_minutes": 68,
+      "message_count": 73,
+      "tool_uses": 237,
+      "harnesses": {
+        "codex": {
+          "input_tokens": 2605586,
+          "output_tokens": 151806,
+          "cache_creation_tokens": 0
         }
       }
     },
