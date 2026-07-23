@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-22T05:11:57Z",
+  "generated_at": "2026-07-23T05:17:41Z",
   "username": "stephenleo",
   "days": {
     "2026-03-28": {
@@ -2347,24 +2347,30 @@
       }
     },
     "2026-07-22": {
-      "sessions": 19,
-      "active_minutes": 152,
-      "input_tokens": 2470524,
-      "output_tokens": 168339,
-      "cache_read_tokens": 48297728,
-      "cache_creation_tokens": 0,
+      "sessions": 33,
+      "active_minutes": 4907,
+      "input_tokens": 7422072,
+      "output_tokens": 475748,
+      "cache_read_tokens": 205773824,
+      "cache_creation_tokens": 24352,
       "models": {
-        "codex-auto-review": 3881,
-        "gpt-5.6-sol": 144002,
+        "claude-haiku-4-5-20251001": 926,
+        "codex-auto-review": 16227,
+        "gpt-5.6-sol": 438139,
         "gpt-5.6-terra": 20456
       },
-      "longest_session_minutes": 26,
-      "message_count": 47,
-      "tool_uses": 136,
+      "longest_session_minutes": 793,
+      "message_count": 194,
+      "tool_uses": 670,
       "harnesses": {
+        "claude": {
+          "input_tokens": 20,
+          "output_tokens": 926,
+          "cache_creation_tokens": 24352
+        },
         "codex": {
-          "input_tokens": 2470524,
-          "output_tokens": 168339,
+          "input_tokens": 7422052,
+          "output_tokens": 474822,
           "cache_creation_tokens": 0
         }
       }
@@ -2438,6 +2444,28 @@
           "input_tokens": 333034,
           "output_tokens": 1065348,
           "cache_creation_tokens": 5728817
+        }
+      }
+    },
+    "2026-07-23": {
+      "sessions": 17,
+      "active_minutes": 198,
+      "input_tokens": 1931736,
+      "output_tokens": 115804,
+      "cache_read_tokens": 70635776,
+      "cache_creation_tokens": 0,
+      "models": {
+        "codex-auto-review": 6768,
+        "gpt-5.6-sol": 109036
+      },
+      "longest_session_minutes": 37,
+      "message_count": 53,
+      "tool_uses": 191,
+      "harnesses": {
+        "codex": {
+          "input_tokens": 1931736,
+          "output_tokens": 115804,
+          "cache_creation_tokens": 0
         }
       }
     },
@@ -10221,11 +10249,18 @@
       "total": 63
     },
     "2026-07-22": {
-      "commits": 0,
+      "commits": 4,
       "issues": 0,
-      "prs": 0,
+      "prs": 4,
       "reviews": 0,
-      "total": 9
+      "total": 52
+    },
+    "2026-07-23": {
+      "commits": 2,
+      "issues": 0,
+      "prs": 2,
+      "reviews": 0,
+      "total": 16
     }
   }
 }
