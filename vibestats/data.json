@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-25T04:58:02Z",
+  "generated_at": "2026-07-26T05:23:56Z",
   "username": "stephenleo",
   "days": {
     "2026-06-23": {
@@ -565,19 +565,27 @@
       }
     },
     "2026-07-25": {
-      "sessions": 1,
-      "active_minutes": 0,
-      "input_tokens": 29638,
-      "output_tokens": 364,
-      "cache_read_tokens": 0,
-      "cache_creation_tokens": 0,
+      "sessions": 28,
+      "active_minutes": 3,
+      "input_tokens": 30307,
+      "output_tokens": 42935,
+      "cache_read_tokens": 9550396,
+      "cache_creation_tokens": 889748,
       "models": {
+        "claude-haiku-4-5-20251001": 1209,
+        "claude-opus-4-8": 34771,
+        "claude-sonnet-5": 6591,
         "gpt-5.6-sol": 364
       },
-      "longest_session_minutes": 0,
-      "message_count": 1,
-      "tool_uses": 0,
+      "longest_session_minutes": 3,
+      "message_count": 405,
+      "tool_uses": 191,
       "harnesses": {
+        "claude": {
+          "input_tokens": 669,
+          "output_tokens": 42571,
+          "cache_creation_tokens": 889748
+        },
         "codex": {
           "input_tokens": 29638,
           "output_tokens": 364,
@@ -10321,11 +10329,11 @@
       "total": 96
     },
     "2026-07-25": {
-      "commits": 0,
+      "commits": 2,
       "issues": 0,
       "prs": 0,
       "reviews": 0,
-      "total": 3
+      "total": 32
     }
   }
 }
