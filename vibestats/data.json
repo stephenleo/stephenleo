@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-26T05:23:56Z",
+  "generated_at": "2026-07-27T05:41:19Z",
   "username": "stephenleo",
   "days": {
     "2026-06-23": {
@@ -657,6 +657,36 @@
         "codex": {
           "input_tokens": 30260638,
           "output_tokens": 1393129,
+          "cache_creation_tokens": 0
+        }
+      }
+    },
+    "2026-07-27": {
+      "sessions": 15,
+      "active_minutes": 9,
+      "input_tokens": 127176,
+      "output_tokens": 46088,
+      "cache_read_tokens": 12011528,
+      "cache_creation_tokens": 649536,
+      "models": {
+        "<synthetic>": 0,
+        "claude-haiku-4-5-20251001": 53,
+        "claude-sonnet-5": 41714,
+        "codex-auto-review": 216,
+        "gpt-5.6-sol": 4105
+      },
+      "longest_session_minutes": 5,
+      "message_count": 394,
+      "tool_uses": 159,
+      "harnesses": {
+        "claude": {
+          "input_tokens": 536,
+          "output_tokens": 41767,
+          "cache_creation_tokens": 649536
+        },
+        "codex": {
+          "input_tokens": 126640,
+          "output_tokens": 4321,
           "cache_creation_tokens": 0
         }
       }
@@ -10334,6 +10364,13 @@
       "prs": 0,
       "reviews": 0,
       "total": 32
+    },
+    "2026-07-27": {
+      "commits": 1,
+      "issues": 0,
+      "prs": 1,
+      "reviews": 0,
+      "total": 26
     }
   }
 }
