@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T03:25:02Z",
+  "generated_at": "2026-08-10T03:44:27Z",
   "username": "stephenleo",
   "days": {
     "2026-06-23": {
@@ -2132,24 +2132,55 @@
         }
       }
     },
-    "2026-08-09": {
-      "sessions": 18,
-      "active_minutes": 388,
-      "input_tokens": 2035470,
-      "output_tokens": 136001,
-      "cache_read_tokens": 46439680,
+    "2026-08-10": {
+      "sessions": 16,
+      "active_minutes": 855,
+      "input_tokens": 5995867,
+      "output_tokens": 453150,
+      "cache_read_tokens": 172300800,
       "cache_creation_tokens": 0,
       "models": {
-        "codex-auto-review": 4000,
-        "gpt-5.6-sol": 132001
+        "codex-auto-review": 4927,
+        "gpt-5.6-sol": 440071,
+        "gpt-5.6-terra": 8152
       },
-      "longest_session_minutes": 92,
-      "message_count": 74,
-      "tool_uses": 57,
+      "longest_session_minutes": 160,
+      "message_count": 46,
+      "tool_uses": 396,
       "harnesses": {
         "codex": {
-          "input_tokens": 2035470,
-          "output_tokens": 136001,
+          "input_tokens": 5995867,
+          "output_tokens": 453150,
+          "cache_creation_tokens": 0
+        }
+      }
+    },
+    "2026-08-09": {
+      "sessions": 57,
+      "active_minutes": 6457,
+      "input_tokens": 12533801,
+      "output_tokens": 971266,
+      "cache_read_tokens": 346876328,
+      "cache_creation_tokens": 698183,
+      "models": {
+        "claude-haiku-4-5-20251001": 644,
+        "claude-opus-5": 8087,
+        "claude-sonnet-5": 9655,
+        "codex-auto-review": 23728,
+        "gpt-5.6-sol": 929152
+      },
+      "longest_session_minutes": 636,
+      "message_count": 467,
+      "tool_uses": 985,
+      "harnesses": {
+        "claude": {
+          "input_tokens": 955,
+          "output_tokens": 18386,
+          "cache_creation_tokens": 698183
+        },
+        "codex": {
+          "input_tokens": 12532846,
+          "output_tokens": 952880,
           "cache_creation_tokens": 0
         }
       }
@@ -10558,11 +10589,18 @@
       "total": 21
     },
     "2026-08-09": {
-      "commits": 0,
+      "commits": 1,
       "issues": 1,
+      "prs": 1,
+      "reviews": 0,
+      "total": 125
+    },
+    "2026-08-10": {
+      "commits": 0,
+      "issues": 0,
       "prs": 0,
       "reviews": 0,
-      "total": 37
+      "total": 10
     }
   }
 }
