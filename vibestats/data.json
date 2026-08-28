@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-27T12:11:12Z",
+  "generated_at": "2026-08-28T10:45:26Z",
   "username": "stephenleo",
   "days": {
     "2026-03-30": {
@@ -510,6 +510,35 @@
         }
       }
     },
+    "2026-08-28": {
+      "sessions": 62,
+      "active_minutes": 1205,
+      "input_tokens": 2983351,
+      "output_tokens": 371302,
+      "cache_read_tokens": 56637785,
+      "cache_creation_tokens": 2312680,
+      "models": {
+        "gpt-5.6-sol": 14484,
+        "openai.gpt-5.6-sol": 152028,
+        "claude-fable-5": 190864,
+        "claude-haiku-4-5-20251001": 13926
+      },
+      "longest_session_minutes": 453,
+      "message_count": 667,
+      "tool_uses": 726,
+      "harnesses": {
+        "codex": {
+          "input_tokens": 2982263,
+          "output_tokens": 166512,
+          "cache_creation_tokens": 0
+        },
+        "claude": {
+          "input_tokens": 1088,
+          "output_tokens": 204790,
+          "cache_creation_tokens": 2312680
+        }
+      }
+    },
     "2026-08-05": {
       "sessions": 6,
       "active_minutes": 9,
@@ -538,26 +567,108 @@
         }
       }
     },
-    "2026-08-11": {
-      "sessions": 11,
-      "active_minutes": 1207,
-      "input_tokens": 7857202,
-      "output_tokens": 432430,
-      "cache_read_tokens": 200597760,
+    "2026-08-13": {
+      "sessions": 14,
+      "active_minutes": 1290,
+      "input_tokens": 9571809,
+      "output_tokens": 60078,
+      "cache_read_tokens": 1949922,
       "cache_creation_tokens": 0,
+      "models": {
+        "openai.gpt-5.4": 1768,
+        "openai.gpt-5.6-sol": 58310
+      },
+      "longest_session_minutes": 1257,
+      "message_count": 30,
+      "tool_uses": 117,
+      "harnesses": {
+        "codex": {
+          "input_tokens": 9571809,
+          "output_tokens": 60078,
+          "cache_creation_tokens": 0
+        }
+      }
+    },
+    "2026-08-27": {
+      "sessions": 50,
+      "active_minutes": 4757,
+      "input_tokens": 2555321,
+      "output_tokens": 415839,
+      "cache_read_tokens": 67446834,
+      "cache_creation_tokens": 3498003,
+      "models": {
+        "openai.gpt-5.6-sol": 100629,
+        "claude-fable-5": 25136,
+        "claude-haiku-4-5-20251001": 35359,
+        "claude-opus-5": 254715
+      },
+      "longest_session_minutes": 1261,
+      "message_count": 462,
+      "tool_uses": 781,
+      "harnesses": {
+        "codex": {
+          "input_tokens": 2553532,
+          "output_tokens": 100629,
+          "cache_creation_tokens": 0
+        },
+        "claude": {
+          "input_tokens": 1789,
+          "output_tokens": 315210,
+          "cache_creation_tokens": 3498003
+        }
+      }
+    },
+    "2026-08-21": {
+      "sessions": 5,
+      "active_minutes": 4405,
+      "input_tokens": 2391997,
+      "output_tokens": 5392,
+      "cache_read_tokens": 633562,
+      "cache_creation_tokens": 0,
+      "models": {
+        "openai.gpt-5.6-luna": 2361,
+        "openai.gpt-5.6-sol": 3031
+      },
+      "longest_session_minutes": 4381,
+      "message_count": 28,
+      "tool_uses": 14,
+      "harnesses": {
+        "codex": {
+          "input_tokens": 2391997,
+          "output_tokens": 5392,
+          "cache_creation_tokens": 0
+        }
+      }
+    },
+    "2026-08-11": {
+      "sessions": 38,
+      "active_minutes": 2477,
+      "input_tokens": 31749623,
+      "output_tokens": 738692,
+      "cache_read_tokens": 208635685,
+      "cache_creation_tokens": 498969,
       "models": {
         "codex-auto-review": 6843,
         "gpt-5.6-sol": 421207,
-        "gpt-5.6-terra": 4380
+        "gpt-5.6-terra": 4380,
+        "openai.gpt-5.4": 3200,
+        "openai.gpt-5.6-sol": 189444,
+        "<synthetic>": 0,
+        "claude-opus-5": 113618
       },
-      "longest_session_minutes": 209,
-      "message_count": 138,
-      "tool_uses": 737,
+      "longest_session_minutes": 1228,
+      "message_count": 404,
+      "tool_uses": 854,
       "harnesses": {
         "codex": {
-          "input_tokens": 7857202,
-          "output_tokens": 432430,
+          "input_tokens": 31749363,
+          "output_tokens": 625074,
           "cache_creation_tokens": 0
+        },
+        "claude": {
+          "input_tokens": 260,
+          "output_tokens": 113618,
+          "cache_creation_tokens": 498969
         }
       }
     },
@@ -618,6 +729,34 @@
         }
       }
     },
+    "2026-08-25": {
+      "sessions": 50,
+      "active_minutes": 4904,
+      "input_tokens": 819426,
+      "output_tokens": 487710,
+      "cache_read_tokens": 62980076,
+      "cache_creation_tokens": 6519289,
+      "models": {
+        "openai.gpt-5.6-sol": 11657,
+        "claude-haiku-4-5-20251001": 62172,
+        "claude-opus-5": 413881
+      },
+      "longest_session_minutes": 2783,
+      "message_count": 492,
+      "tool_uses": 747,
+      "harnesses": {
+        "codex": {
+          "input_tokens": 807697,
+          "output_tokens": 11657,
+          "cache_creation_tokens": 0
+        },
+        "claude": {
+          "input_tokens": 11729,
+          "output_tokens": 476053,
+          "cache_creation_tokens": 6519289
+        }
+      }
+    },
     "2026-08-04": {
       "sessions": 14,
       "active_minutes": 8,
@@ -649,24 +788,123 @@
       }
     },
     "2026-08-10": {
-      "sessions": 34,
+      "sessions": 36,
       "active_minutes": 1699,
-      "input_tokens": 5674918,
-      "output_tokens": 119811,
-      "cache_read_tokens": 61050112,
-      "cache_creation_tokens": 0,
+      "input_tokens": 5675171,
+      "output_tokens": 214316,
+      "cache_read_tokens": 68372595,
+      "cache_creation_tokens": 496225,
       "models": {
         "codex-auto-review": 35163,
-        "gpt-5.6-sol": 84648
+        "gpt-5.6-sol": 84648,
+        "<synthetic>": 0,
+        "claude-opus-5": 94505
       },
       "longest_session_minutes": 591,
-      "message_count": 379,
-      "tool_uses": 113,
+      "message_count": 603,
+      "tool_uses": 170,
       "harnesses": {
         "codex": {
           "input_tokens": 5674918,
           "output_tokens": 119811,
           "cache_creation_tokens": 0
+        },
+        "claude": {
+          "input_tokens": 253,
+          "output_tokens": 94505,
+          "cache_creation_tokens": 496225
+        }
+      }
+    },
+    "2026-08-19": {
+      "sessions": 93,
+      "active_minutes": 3370,
+      "input_tokens": 216662663,
+      "output_tokens": 1270406,
+      "cache_read_tokens": 107034471,
+      "cache_creation_tokens": 6156765,
+      "models": {
+        "openai.gpt-5.4": 1592,
+        "openai.gpt-5.6-luna": 9617,
+        "openai.gpt-5.6-sol": 679242,
+        "<synthetic>": 0,
+        "claude-fable-5": 92609,
+        "claude-haiku-4-5-20251001": 31075,
+        "claude-opus-5": 456271
+      },
+      "longest_session_minutes": 1191,
+      "message_count": 1076,
+      "tool_uses": 889,
+      "harnesses": {
+        "codex": {
+          "input_tokens": 216660217,
+          "output_tokens": 690451,
+          "cache_creation_tokens": 0
+        },
+        "claude": {
+          "input_tokens": 2446,
+          "output_tokens": 579955,
+          "cache_creation_tokens": 6156765
+        }
+      }
+    },
+    "2026-08-12": {
+      "sessions": 47,
+      "active_minutes": 2122,
+      "input_tokens": 159407657,
+      "output_tokens": 841946,
+      "cache_read_tokens": 16603164,
+      "cache_creation_tokens": 2611273,
+      "models": {
+        "openai.gpt-5.4": 3162,
+        "openai.gpt-5.6-luna": 1397,
+        "openai.gpt-5.6-sol": 428930,
+        "<synthetic>": 0,
+        "claude-haiku-4-5-20251001": 24316,
+        "claude-opus-5": 384141
+      },
+      "longest_session_minutes": 2035,
+      "message_count": 502,
+      "tool_uses": 535,
+      "harnesses": {
+        "codex": {
+          "input_tokens": 159389497,
+          "output_tokens": 433489,
+          "cache_creation_tokens": 0
+        },
+        "claude": {
+          "input_tokens": 18160,
+          "output_tokens": 408457,
+          "cache_creation_tokens": 2611273
+        }
+      }
+    },
+    "2026-08-14": {
+      "sessions": 34,
+      "active_minutes": 7416,
+      "input_tokens": 11529541,
+      "output_tokens": 456541,
+      "cache_read_tokens": 38100892,
+      "cache_creation_tokens": 3385035,
+      "models": {
+        "openai.gpt-5.4": 2803,
+        "openai.gpt-5.6-sol": 54014,
+        "claude-haiku-4-5-20251001": 37216,
+        "claude-opus-5": 362508
+      },
+      "longest_session_minutes": 7005,
+      "message_count": 142,
+      "tool_uses": 542,
+      "harnesses": {
+        "codex": {
+          "input_tokens": 11526960,
+          "output_tokens": 56817,
+          "cache_creation_tokens": 0
+        },
+        "claude": {
+          "input_tokens": 2581,
+          "output_tokens": 399724,
+          "cache_creation_tokens": 3385035
         }
       }
     },
@@ -694,24 +932,55 @@
       }
     },
     "2026-08-24": {
-      "sessions": 8,
-      "active_minutes": 1046,
-      "input_tokens": 4623353,
-      "output_tokens": 141350,
-      "cache_read_tokens": 64256256,
-      "cache_creation_tokens": 0,
+      "sessions": 37,
+      "active_minutes": 3755,
+      "input_tokens": 5452020,
+      "output_tokens": 545439,
+      "cache_read_tokens": 104226848,
+      "cache_creation_tokens": 3051741,
       "models": {
         "codex-auto-review": 11667,
         "gpt-5.6-sol": 13806,
-        "gpt-5.6-terra": 115877
+        "gpt-5.6-terra": 115877,
+        "openai.gpt-5.4": 2987,
+        "openai.gpt-5.6-luna": 381,
+        "openai.gpt-5.6-sol": 37303,
+        "claude-haiku-4-5-20251001": 11597,
+        "claude-opus-5": 351821
       },
-      "longest_session_minutes": 143,
-      "message_count": 148,
-      "tool_uses": 143,
+      "longest_session_minutes": 1395,
+      "message_count": 777,
+      "tool_uses": 599,
       "harnesses": {
         "codex": {
-          "input_tokens": 4623353,
-          "output_tokens": 141350,
+          "input_tokens": 5450678,
+          "output_tokens": 182021,
+          "cache_creation_tokens": 0
+        },
+        "claude": {
+          "input_tokens": 1342,
+          "output_tokens": 363418,
+          "cache_creation_tokens": 3051741
+        }
+      }
+    },
+    "2026-08-26": {
+      "sessions": 3,
+      "active_minutes": 326,
+      "input_tokens": 618985,
+      "output_tokens": 15325,
+      "cache_read_tokens": 4544288,
+      "cache_creation_tokens": 0,
+      "models": {
+        "openai.gpt-5.6-sol": 15325
+      },
+      "longest_session_minutes": 175,
+      "message_count": 29,
+      "tool_uses": 41,
+      "harnesses": {
+        "codex": {
+          "input_tokens": 618985,
+          "output_tokens": 15325,
           "cache_creation_tokens": 0
         }
       }
@@ -736,6 +1005,35 @@
           "input_tokens": 19041,
           "output_tokens": 371730,
           "cache_creation_tokens": 1351382
+        }
+      }
+    },
+    "2026-08-20": {
+      "sessions": 38,
+      "active_minutes": 3990,
+      "input_tokens": 40651883,
+      "output_tokens": 411557,
+      "cache_read_tokens": 29864940,
+      "cache_creation_tokens": 2293499,
+      "models": {
+        "openai.gpt-5.6-luna": 11807,
+        "openai.gpt-5.6-sol": 124979,
+        "claude-haiku-4-5-20251001": 33426,
+        "claude-opus-5": 241345
+      },
+      "longest_session_minutes": 1776,
+      "message_count": 439,
+      "tool_uses": 495,
+      "harnesses": {
+        "codex": {
+          "input_tokens": 40635905,
+          "output_tokens": 136786,
+          "cache_creation_tokens": 0
+        },
+        "claude": {
+          "input_tokens": 15978,
+          "output_tokens": 274771,
+          "cache_creation_tokens": 2293499
         }
       }
     },
@@ -10753,6 +11051,13 @@
       "prs": 0,
       "reviews": 0,
       "total": 2
+    },
+    "2026-08-28": {
+      "commits": 0,
+      "issues": 0,
+      "prs": 0,
+      "reviews": 0,
+      "total": 15
     }
   }
 }
