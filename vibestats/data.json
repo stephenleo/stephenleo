@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T07:07:41Z",
+  "generated_at": "2026-10-26T07:14:50Z",
   "username": "stephenleo",
   "days": {
     "2026-09-16": {
@@ -3745,6 +3745,29 @@
         }
       }
     },
+    "2026-10-26": {
+      "sessions": 13,
+      "active_minutes": 0,
+      "input_tokens": 344,
+      "output_tokens": 163778,
+      "cache_read_tokens": 28941493,
+      "cache_creation_tokens": 2459196,
+      "models": {
+        "claude-haiku-4-5-20251001": 29664,
+        "claude-opus-5-5": 130256,
+        "claude-sonnet-5-5": 3858
+      },
+      "longest_session_minutes": 0,
+      "message_count": 0,
+      "tool_uses": 183,
+      "harnesses": {
+        "claude": {
+          "input_tokens": 344,
+          "output_tokens": 163778,
+          "cache_creation_tokens": 2459196
+        }
+      }
+    },
     "2026-10-05": {
       "sessions": 8,
       "active_minutes": 0,
@@ -3806,6 +3829,32 @@
           "input_tokens": 100,
           "output_tokens": 17351,
           "cache_creation_tokens": 183020
+        }
+      }
+    },
+    "2026-10-25": {
+      "sessions": 62,
+      "active_minutes": 1,
+      "input_tokens": 746,
+      "output_tokens": 213046,
+      "cache_read_tokens": 19908468,
+      "cache_creation_tokens": 2081474,
+      "models": {
+        "<synthetic>": 0,
+        "claude-haiku-4-5-20251001": 39211,
+        "claude-haiku-5-5": 22619,
+        "claude-opus-5": 3641,
+        "claude-opus-5-5": 120452,
+        "claude-sonnet-5-5": 27123
+      },
+      "longest_session_minutes": 1,
+      "message_count": 540,
+      "tool_uses": 285,
+      "harnesses": {
+        "claude": {
+          "input_tokens": 746,
+          "output_tokens": 213046,
+          "cache_creation_tokens": 2081474
         }
       }
     },
@@ -11678,6 +11727,20 @@
       "prs": 0,
       "reviews": 0,
       "total": 13
+    },
+    "2026-10-25": {
+      "commits": 0,
+      "issues": 0,
+      "prs": 0,
+      "reviews": 0,
+      "total": 39
+    },
+    "2026-10-26": {
+      "commits": 0,
+      "issues": 0,
+      "prs": 0,
+      "reviews": 0,
+      "total": 8
     }
   }
 }
